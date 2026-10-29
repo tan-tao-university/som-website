@@ -1,0 +1,1299 @@
+{
+  "metadata": {
+    "title": "Khoa Y - Trường Đại học Tân Tạo (TTU School of Medicine)",
+    "description": "Khoa Y Trường Đại học Tân Tạo (TTU School of Medicine) đào tạo Bác sĩ Y khoa (MD chuẩn USMLE Hoa Kỳ), Cử nhân Điều dưỡng và Kỹ thuật Xét nghiệm Y học theo triết lý Y học Hoa Kỳ – Y đức Hải Thượng.",
+    "keywords": "Khoa Y Đại học Tân Tạo, School of Medicine TTU, Bác sĩ Đa khoa, USMLE, Điều dưỡng, Kỹ thuật Xét nghiệm Y học, GS Thạch Nguyễn, SOM TTU"
+  },
+  "header": {
+    "phone": "(+84) 272 376 9216",
+    "email": "medicine@ttu.edu.vn",
+    "slogan": "Y học Hoa Kỳ – Y đức Hải Thượng",
+    "university": "Đại học Tân Tạo",
+    "faculty": "Khoa Y",
+    "navigation": {
+      "about": "Giới thiệu",
+      "programs": "Đào tạo",
+      "students": "Sinh viên",
+      "research": "Nghiên cứu",
+      "news": "Tin tức",
+      "faculty": "Ban giảng huấn",
+      "researchOverview": "Tổng quan nghiên cứu",
+      "scientificProjects": "Đề tài khoa học",
+      "scientificPublications": "Công bố quốc tế",
+      "studentsOverview": "Đời sống sinh viên Y khoa",
+      "studentsAdmissions": "Cổng tuyển sinh",
+      "studentsHandbook": "Sổ tay sinh viên",
+      "studentsActivities": "Hoạt động & Y đức",
+      "studentsInternships": "Lâm sàng & Nội trú",
+      "studentsAlumni": "Cựu sinh viên & Bác sĩ"
+    },
+    "contact": "Liên hệ tư vấn",
+    "close": "Đóng",
+    "exploreSit": "Khám phá Khoa Y",
+    "quickLinks": "Liên kết nhanh",
+    "about": "Giới thiệu",
+    "news": "Tin tức",
+    "research": "Nghiên cứu",
+    "students": "Sinh viên",
+    "contactButton": "Liên hệ",
+    "contactLink": "Liên hệ",
+    "faqLink": "Hỏi đáp",
+    "messengerLink": "Nhắn Messenger",
+    "programsDescription": "Khám phá các chương trình đào tạo Y khoa, Điều dưỡng và Kỹ thuật Xét nghiệm Y học chuẩn Hoa Kỳ.",
+    "studentsDescription": "Thông tin về đời sống sinh viên Y khoa, Lễ Khoác Áo Blouse Trắng, lâm sàng và học bổng.",
+    "researchDescription": "Khám phá các công bố quốc tế ISI/Scopus, đề tài NAFOSTED và hội nghị tim mạch quốc tế.",
+    "exploreDescription": "Khám phá hệ sinh thái đào tạo, lâm sàng và nghiên cứu y học tại Khoa Y TTU.",
+    "programsBrowseDescription": "Duyệt tất cả các chương trình đào tạo khối ngành Khoa học Sức khỏe.",
+    "language": {
+      "vi": "Tiếng Việt",
+      "en": "English"
+    },
+    "search": "Tìm kiếm",
+    "searchPlaceholder": "Tìm kiếm chương trình, học phần, giảng viên...",
+    "menu": "Danh Mục",
+    "noResults": "Không tìm thấy kết quả.",
+    "recentSearch": "Tìm kiếm gần đây",
+    "courseSchedule": "Lịch học & Lâm sàng",
+    "studentDashboard": "Cổng thông tin sinh viên",
+    "quickActions": "Thao tác nhanh",
+    "searchPosts": "Tìm bài viết",
+    "academicPrograms": "Chương trình đào tạo",
+    "curriculums": "Khung chương trình",
+    "footerNavigate": "điều hướng",
+    "footerSelect": "chọn",
+    "footerClose": "đóng"
+  },
+  "textRibbon": {
+    "messages": [
+      "Công bố quốc tế trên tạp chí Nature Medicine (2026) có sự tham gia của nhóm nghiên cứu Khoa Y TTU",
+      "Bác sĩ tốt nghiệp Khoa Y TTU trúng tuyển Bác sĩ Nội trú (Residency) tại Hoa Kỳ & Đại học Y Dược TP.HCM",
+      "Đạt kiểm định ECFMG & WDOMS – Sinh viên Khoa Y đủ điều kiện dự thi USMLE Step 1, Step 2 CK và hành nghề tại Mỹ",
+      "Thực tập lâm sàng quốc tế tại St. Mary Medical Center (Indiana) & ChristianaCare (Delaware, Hoa Kỳ)",
+      "Lễ Khoác Áo Blouse Trắng (White Coat Ceremony) và tuyên đọc Lời thề Thầy thuốc Hải Thượng Lãn Ông & Hippocrates",
+      "Mạng lưới hơn 18 bệnh viện thực hành tuyến cuối tại TP.HCM và Bệnh viện Đại học Y Tân Tạo"
+    ]
+  },
+  "hero": {
+    "welcome": "Chào mừng đến với Khoa Y – TTU School of Medicine",
+    "title": "Kiến tạo thế hệ",
+    "dynamicTexts": [
+      "Bác sĩ Y khoa chuẩn Quốc tế",
+      "Chuyên gia Lâm sàng Hoa Kỳ",
+      "Nhà Nghiên cứu Y sinh",
+      "Cử nhân Điều dưỡng",
+      "Chuyên gia Xét nghiệm Y học",
+      "Thầy thuốc Giàu Y đức"
+    ],
+    "subtitle": "Khoa Y Trường Đại học Tân Tạo tiên phong đào tạo Y khoa song ngữ theo chuẩn USMLE Hoa Kỳ kết hợp triết lý Giáo dục Khai phóng, lấy tinh thần \"Y học Hoa Kỳ – Y đức Hải Thượng\" làm kim chỉ nam.",
+    "explore": "Khám phá chương trình",
+    "watchVideo": "Tìm hiểu Khoa Y",
+    "imageEyebrow": "Đào tạo Lâm sàng & Học thuật",
+    "imageTitle": "Y học Hoa Kỳ – Y đức Hải Thượng.",
+    "imageDescription": "Kết nối nền tảng Y sinh học chuẩn USMLE, hệ thống bàn giải phẫu 3D Anatomage và mạng lưới thực hành lâm sàng tại Hoa Kỳ & Việt Nam."
+  },
+  "stats": {
+    "title": "Dấu ấn học thuật & lâm sàng",
+    "subtitle": "Những cột mốc khẳng định vị thế đào tạo Y khoa chuẩn quốc tế của Khoa Y Đại học Tân Tạo",
+    "items": [
+      {
+        "number": "2013",
+        "label": "Thành lập Khoa Y TTU"
+      },
+      {
+        "number": "03",
+        "label": "Ngành đào tạo Khối Sức khỏe"
+      },
+      {
+        "number": "18+",
+        "label": "Bệnh viện thực hành tại VN & Mỹ"
+      },
+      {
+        "number": "100%",
+        "label": "Chuẩn hóa USMLE & WDOMS"
+      }
+    ]
+  },
+  "programs": {
+    "badge": "Chương trình đào tạo",
+    "title": "Khối ngành Khoa học Sức khỏe",
+    "titleHighlight": "Chuẩn Quốc tế",
+    "subtitle": "Kết hợp chương trình Y khoa chuẩn USMLE Hoa Kỳ, thực hành tiền lâm sàng hiện đại và luân khoa tại các bệnh viện hạng I.",
+    "programsSubtitle": "Từ Bác sĩ Y khoa (MD), Cử nhân Điều dưỡng đến Kỹ thuật Xét nghiệm Y học, mỗi lộ trình đều trang bị năng lực lâm sàng vững vàng và tư duy nghiên cứu quốc tế.",
+    "viewAll": "Xem tất cả chương trình",
+    "viewDetails": "Xem chi tiết",
+    "relatedPrograms": "Chương trình liên quan",
+    "exploreOtherPrograms": "Khám phá các ngành khác",
+    "exploreOtherProgramsDescription": "Xem các chương trình đào tạo khác thuộc Khoa Y",
+    "undergraduate": "Đại học & Bác sĩ",
+    "graduate": "Sau đại học & Nội trú",
+    "whyChoose": "Vì sao chọn Khoa Y TTU?",
+    "features": [
+      {
+        "title": "Chương trình tích hợp USMLE Hoa Kỳ",
+        "description": "Chương trình Bác sĩ Y khoa tích hợp giảng dạy hoàn toàn các học phần chuẩn bị cho kỳ thi cấp phép hành nghề Y khoa Hoa Kỳ (USMLE Step 1 & Step 2 CK), được công nhận bởi WDOMS và ECFMG."
+      },
+      {
+        "title": "Giáo sư đầu ngành từ Hoa Kỳ & Việt Nam",
+        "description": "Dẫn dắt bởi GS.TS.BS Thạch Nguyễn (Mỹ), NGND GS.TS.BS Lê Hoàng Ninh, PGS.TS.BS Phạm Nguyễn Vinh, GS.TS.BS Lê Quang Nghĩa, GS.TS.BS Lê Văn Cường cùng đội ngũ giáo sư quốc tế."
+      },
+      {
+        "title": "Thực tập lâm sàng tại Mỹ & 18+ bệnh viện lớn",
+        "description": "Sinh viên đi luân khoa tại Bệnh viện Chợ Rẫy, Bình Dân, Nhân Dân 115, Nhi Đồng 1, Nhi Đồng 2, Từ Dũ, Hùng Vương và thực tập lâm sàng tại Indiana, Hoa Kỳ."
+      }
+    ],
+    "financialSupport": "Học bổng Quỹ ITA Vì Tương Lai và hỗ trợ lộ trình thi USMLE & Nội trú quốc tế",
+    "details": {
+      "shared": {
+        "keyDetailsTitle": "Thông tin chính",
+        "programCard": {
+          "codeLabel": "Mã ngành",
+          "featuresLabel": "Trọng tâm đào tạo",
+          "ctaLabel": "Xem khung chương trình"
+        }
+      },
+      "undergraduate": {
+        "hero": {
+          "breadcrumbs": [
+            "Trang chủ",
+            "Đào tạo",
+            "Đại học & Bác sĩ"
+          ],
+          "title": "Chương trình Đào tạo Y khoa & Sức khỏe",
+          "highlight": "Chuẩn mực Lâm sàng Quốc tế",
+          "subtitle": "Đào tạo Bác sĩ Y khoa (MD), Cử nhân Điều dưỡng và Cử nhân Kỹ thuật Xét nghiệm Y học trên nền tảng Giáo dục Khai phóng và Y đức Hải Thượng.",
+          "ctaPrimary": "Đăng ký xét tuyển",
+          "ctaSecondary": "Xem các ngành học",
+          "image": "/assets/som/program-medicine-md.jpg",
+          "alt": "Sinh viên Khoa Y Đại học Tân Tạo trong giờ thực hành lâm sàng"
+        },
+        "keyDetails": [
+          {
+            "label": "Địa điểm",
+            "value": "Đại học Tân Tạo",
+            "description": "Đại lộ Đại học Tân Tạo, Tân Đức E.City, Đức Hòa, Long An"
+          },
+          {
+            "label": "Thời lượng",
+            "value": "4 – 6 năm",
+            "description": "6 năm đối với Bác sĩ Y khoa (209 tín chỉ), 4 năm đối với Điều dưỡng & Xét nghiệm (135 tín chỉ)"
+          },
+          {
+            "label": "Hình thức học",
+            "value": "Chính quy toàn thời gian",
+            "description": "Lý thuyết, Lab tiền lâm sàng, OSCE và Luân khoa Bệnh viện"
+          },
+          {
+            "label": "Mã ngành tuyển sinh",
+            "value": "7720101 / 7720301 / 7720601",
+            "description": "Xét tuyển theo quy định của Bộ GD&ĐT và tiêu chuẩn khối ngành Sức khỏe"
+          }
+        ],
+        "overview": {
+          "badge": "Lộ trình đào tạo",
+          "title": "Hành trình trở thành người thầy thuốc bản lĩnh",
+          "description": "Kết hợp chặt chẽ giữa khoa học y sinh cơ bản, huấn luyện kỹ năng tiền lâm sàng trên mô hình và thực hành tại các bệnh viện tuyến cuối.",
+          "points": [
+            "Giai đoạn Khoa học Cơ bản & Giáo dục Khai phóng kết hợp Tiếng Anh Y khoa chuyên sâu",
+            "Giai đoạn Y học Cơ sở tích hợp theo hệ cơ quan chuẩn USMLE Step 1 và giải phẫu 3D Anatomage",
+            "Huấn luyện kỹ năng tiền lâm sàng (OSCE) và thực tập tại Bệnh viện Đại học Y Tân Tạo",
+            "Luân khoa lâm sàng Nội – Ngoại – Sản – Nhi tại 18+ bệnh viện hạng I TP.HCM và thực tập tại Hoa Kỳ"
+          ]
+        }
+      },
+      "graduate": {
+        "hero": {
+          "breadcrumbs": [
+            "Trang chủ",
+            "Đào tạo",
+            "Định hướng Nội trú & Quốc tế"
+          ],
+          "title": "Lộ trình USMLE & Sau đại học",
+          "highlight": "Hội nhập Y khoa Toàn cầu",
+          "subtitle": "Chuẩn bị toàn diện cho kỳ thi USMLE (Hoa Kỳ), Bác sĩ Nội trú Việt Nam và các chương trình nghiên cứu y sinh sau đại học.",
+          "ctaPrimary": "Tìm hiểu lộ trình USMLE",
+          "ctaSecondary": "Trao đổi với Ban giảng huấn",
+          "image": "/assets/som/hero-som-clinical.jpg",
+          "alt": "Sinh viên và giảng viên Khoa Y thảo luận chuyên môn"
+        },
+        "keyDetails": [
+          {
+            "label": "Công nhận quốc tế",
+            "value": "WDOMS & ECFMG",
+            "description": "Đủ điều kiện dự thi USMLE và đăng ký chương trình Nội trú (NRMP Match) tại Hoa Kỳ"
+          },
+          {
+            "label": "Lâm sàng hải ngoại",
+            "value": "4 – 8 tuần",
+            "description": "Thực tập lâm sàng tại Indiana, Delaware và các trung tâm y khoa đối tác tại Mỹ"
+          },
+          {
+            "label": "Nghiên cứu",
+            "value": "ISI / Scopus",
+            "description": "Tham gia công bố quốc tế và báo cáo tại hội nghị AHA, ACC, SCAI"
+          },
+          {
+            "label": "Liên thông Nội trú",
+            "value": "Residency & CKI",
+            "description": "Cố vấn lộ trình thi Bác sĩ Nội trú trong nước và quốc tế"
+          }
+        ],
+        "overview": {
+          "badge": "Định hướng sau đại học",
+          "title": "Mở rộng biên giới hành nghề Y khoa",
+          "description": "Khoa Y đồng hành cùng sinh viên từ giảng đường đến các kỳ thi chứng chỉ hành nghề quốc tế và chương trình đào tạo Bác sĩ Nội trú.",
+          "points": [
+            "Ôn luyện chuyên sâu USMLE Step 1 và Step 2 CK cùng các giáo sư Hoa Kỳ",
+            "Cơ hội thực tập lâm sàng (Clerkship/Observership) tại các bệnh viện giảng dạy ở Mỹ",
+            "Tham gia nhóm nghiên cứu Tim mạch & Y sinh học công bố trên tạp chí Q1",
+            "Kết nối mạng lưới cựu sinh viên là Bác sĩ Nội trú tại Hoa Kỳ và Việt Nam"
+          ]
+        }
+      }
+    },
+    "programPage": {
+      "shared": {
+        "breadcrumbs": [
+          "Chương trình đào tạo"
+        ],
+        "actions": [
+          {
+            "label": "Tải cẩm nang tuyển sinh",
+            "description": "Xem chi tiết chương trình và lộ trình học tập tại Khoa Y"
+          },
+          {
+            "label": "Đăng ký tham quan Khoa Y",
+            "description": "Trải nghiệm phòng Lab giải phẫu 3D Anatomage và gặp gỡ Giáo sư"
+          }
+        ],
+        "applyLabel": "Đăng ký xét tuyển",
+        "overview": {
+          "badge": "Tổng quan chương trình",
+          "title": "Chuẩn mực học thuật gắn liền thực tiễn lâm sàng",
+          "description": "Khoa Y TTU kết hợp nền tảng giáo dục khai phóng với đào tạo y khoa thực chứng, giúp sinh viên phát triển tư duy lâm sàng sắc bén và trái tim nhân ái.",
+          "points": [
+            "Chương trình đào tạo song ngữ Việt – Anh, tích hợp tài liệu y khoa chuẩn Hoa Kỳ",
+            "Thực hành sớm tại hệ thống phòng thí nghiệm tiền lâm sàng và Bệnh viện Đại học Y Tân Tạo",
+            "Mạng lưới hơn 18 bệnh viện thực hành tuyến đầu tại TP.HCM và cơ hội du học lâm sàng tại Mỹ",
+            "Cố vấn học thuật và định hướng nghiên cứu khoa học cá nhân hóa từ năm nhất"
+          ]
+        },
+        "curriculum": {
+          "badge": "Cấu trúc học phần",
+          "title": "Nội dung đào tạo trọng tâm",
+          "description": "Các học phần được thiết kế tích hợp từ khoa học cơ bản, y học cơ sở theo hệ cơ quan đến các vòng luân khoa lâm sàng chuyên sâu.",
+          "placeholder": "Đang cập nhật danh mục học phần"
+        },
+        "career": {
+          "badge": "Triển vọng nghề nghiệp",
+          "title": "Cơ hội phát triển sau tốt nghiệp",
+          "points": [
+            "Bác sĩ điều trị, Bác sĩ Nội trú tại các bệnh viện công lập và quốc tế",
+            "Dự thi USMLE và ứng tuyển chương trình Bác sĩ Nội trú (Residency) tại Hoa Kỳ",
+            "Chuyên gia Điều dưỡng lâm sàng, Kỹ thuật viên trưởng Xét nghiệm Y học",
+            "Nhà nghiên cứu y sinh học, giảng viên đại học y khoa trong nước và quốc tế"
+          ]
+        }
+      },
+      "undergraduate": {
+        "heroTagline": "Đào tạo thế hệ thầy thuốc giỏi chuyên môn, sáng y đức, hội nhập quốc tế.",
+        "heroImage": "/assets/som/program-medicine-md.jpg",
+        "keyFacts": [
+          {
+            "label": "Mã ngành",
+            "value": "{{code}}"
+          },
+          {
+            "label": "Điều kiện xét tuyển",
+            "value": "Tốt nghiệp THPT, đạt ngưỡng đảm bảo chất lượng khối Sức khỏe"
+          },
+          {
+            "label": "Thời gian đào tạo",
+            "value": "4 – 6 năm"
+          },
+          {
+            "label": "Đơn vị quản lý",
+            "value": "Khoa Y – Trường Đại học Tân Tạo"
+          }
+        ]
+      },
+      "graduate": {
+        "heroTagline": "Nâng tầm năng lực lâm sàng và nghiên cứu y học theo chuẩn quốc tế.",
+        "heroImage": "/assets/som/hero-som-clinical.jpg",
+        "keyFacts": [
+          {
+            "label": "Mã chương trình",
+            "value": "{{code}}"
+          },
+          {
+            "label": "Đối tượng",
+            "value": "Sinh viên Y khoa & Bác sĩ định hướng thi USMLE / Nội trú"
+          },
+          {
+            "label": "Thời lượng",
+            "value": "Lộ trình tích hợp"
+          },
+          {
+            "label": "Đơn vị quản lý",
+            "value": "Khoa Y – Trường Đại học Tân Tạo"
+          }
+        ]
+      }
+    },
+    "programSlugPage": {
+      "shared": {
+        "hero": {
+          "badge": "Chương trình Đào tạo Khoa Y",
+          "fallbackImage": "/assets/som/program-medicine-md.jpg",
+          "inquireLabel": "Tư vấn tuyển sinh",
+          "applyLabel": "Nộp hồ sơ"
+        },
+        "meta": {
+          "schoolLabel": "Đơn vị",
+          "divisionLabel": "Khối ngành",
+          "levelLabel": "Danh hiệu tốt nghiệp"
+        },
+        "overview": {
+          "title": "Điểm nhấn chương trình đào tạo",
+          "description": "Khám phá cấu trúc khung chương trình, chuẩn đầu ra lâm sàng và các cột mốc đào tạo tại Khoa Y Đại học Tân Tạo.",
+          "sections": [
+            {
+              "title": "Đặc trưng học thuật",
+              "points": [
+                "Chương trình tích hợp chuẩn Bộ GD&ĐT, Bộ Y tế và khung năng lực USMLE Hoa Kỳ",
+                "Giảng dạy song ngữ Anh – Việt với giáo trình y văn quốc tế cập nhật",
+                "Thực hành trên bàn giải phẫu 3D Anatomage, tiêu bản cadaver và trung tâm mô phỏng OSCE",
+                "Hướng dẫn trực tiếp bởi các Giáo sư, Phó Giáo sư, Tiến sĩ, Bác sĩ đầu ngành"
+              ]
+            },
+            {
+              "title": "Năng lực cốt lõi sau tốt nghiệp",
+              "points": [
+                "Khám, chẩn đoán, xử trí cấp cứu và điều trị bệnh lý theo y học chứng cứ",
+                "Giao tiếp y khoa chuẩn mực bằng tiếng Việt và tiếng Anh trong môi trường đa văn hóa",
+                "Thực hiện đề tài nghiên cứu lâm sàng và công bố trên các tạp chí y học quốc tế",
+                "Tuân thủ nghiêm ngặt Y đức Hải Thượng Lãn Ông và Lời thề Hippocrates"
+              ]
+            }
+          ]
+        },
+        "curriculum": {
+          "title": "Khung chương trình đào tạo",
+          "description": "Lộ trình học tập tích hợp từ Giáo dục Khai phóng, Y học cơ sở theo hệ cơ quan đến thực hành lâm sàng bệnh viện.",
+          "placeholder": "Đang cập nhật chi tiết học phần"
+        },
+        "ctaBanner": {
+          "title": "Sẵn sàng khoác lên mình chiếc áo Blouse trắng?",
+          "description": "Liên hệ Ban Tư vấn Tuyển sinh Khoa Y TTU để được giải đáp về điều kiện xét tuyển, học bổng và lộ trình USMLE.",
+          "primary": "Liên hệ tư vấn",
+          "secondary": "Xem thông tin tuyển sinh"
+        },
+        "accordion": {
+          "title": "PHẦN I. THÔNG TIN CHUNG VỀ CHƯƠNG TRÌNH ĐÀO TẠO",
+          "items": [
+            {
+              "title": "1. Giới thiệu chung về Chương trình Đào tạo",
+              "content": [
+                "Chương trình đào tạo tại Khoa Y Trường Đại học Tân Tạo được thiết kế theo mô hình tích hợp hiện đại của Hoa Kỳ đồng thời tuân thủ đầy đủ quy định của Bộ Giáo dục & Đào tạo và Bộ Y tế Việt Nam.",
+                "Sinh viên được trang bị kiến thức vững chắc về khoa học cơ bản, y học cơ sở, kỹ năng tiền lâm sàng và năng lực thực hành lâm sàng tại hệ thống hơn 18 bệnh viện thực hành hạng I tại TP.HCM và Bệnh viện Đại học Y Tân Tạo.",
+                "Đặc biệt, chương trình chú trọng rèn luyện tiếng Anh chuyên ngành Y khoa, tư duy nghiên cứu khoa học và chuẩn bị cho kỳ thi cấp phép hành nghề Y khoa Hoa Kỳ (USMLE)."
+              ],
+              "defaultOpen": true
+            },
+            {
+              "title": "2. Chuẩn kiểm định và Công nhận quốc tế",
+              "content": [
+                "Khoa Y Trường Đại học Tân Tạo đã được ghi danh trong Danh bạ các Trường Y Thế giới (World Directory of Medical Schools - WDOMS) và được Ủy ban Giáo dục cho Sinh viên Y khoa Quốc tế Hoa Kỳ (ECFMG) công nhận, cho phép sinh viên và cựu sinh viên dự thi USMLE và ứng tuyển Bác sĩ Nội trú tại Hoa Kỳ."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "3. Sứ mạng – Tầm nhìn – Giá trị cốt lõi – Triết lý giáo dục",
+              "content": [
+                "Triết lý giáo dục của Khoa Y gắn liền với phương châm 'Y học Hoa Kỳ – Y đức Hải Thượng' trên nền tảng Giáo dục Khai phóng và Học tập suốt đời, đào tạo người thầy thuốc vừa tinh thông y thuật hiện đại vừa giàu lòng nhân ái."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "4. Mục tiêu của chương trình đào tạo",
+              "content": [
+                "Đào tạo đội ngũ Bác sĩ Y khoa, Cử nhân Điều dưỡng và Cử nhân Kỹ thuật Xét nghiệm Y học có phẩm chất đạo đức nghề nghiệp, nắm vững kiến thức khoa học sức khỏe, thành thạo kỹ năng lâm sàng và có khả năng hội nhập quốc tế."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "5. Chuẩn đầu ra (PLO)",
+              "content": [
+                "Sinh viên tốt nghiệp đạt chuẩn năng lực chuyên môn theo quy định của Bộ Y tế, thành thạo ngoại ngữ chuyên ngành (tương đương IELTS 6.0–6.5+), có khả năng tự học suốt đời và tham gia nghiên cứu khoa học."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "6. Điều kiện tuyển sinh đầu vào",
+              "content": [
+                "Tuyển sinh thí sinh tốt nghiệp THPT trên toàn quốc hoặc tương đương, đạt ngưỡng đảm bảo chất lượng đầu vào đối với khối ngành Sức khỏe theo quy chế của Bộ Giáo dục & Đào tạo."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "7. Khối lượng học tập",
+              "content": [
+                "Ngành Y khoa (Bác sĩ Đa khoa): 209 tín chỉ (6 năm). Ngành Điều dưỡng: 135 tín chỉ (4 năm). Ngành Kỹ thuật Xét nghiệm Y học: 135 tín chỉ (4 năm)."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "8. Cấu trúc và nội dung chương trình",
+              "content": [
+                "Chương trình bao gồm các khối kiến thức: Giáo dục đại cương & Khai phóng, Khoa học cơ bản & Ngoại ngữ Y khoa, Y học cơ sở tích hợp theo hệ cơ quan, Kỹ năng Tiền lâm sàng (Skill Lab/OSCE), Thực tập Lâm sàng Bệnh viện và Khóa luận/Thi tốt nghiệp."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "9. Phương pháp giảng dạy và học tập",
+              "content": [
+                "Áp dụng phương pháp học tập dựa trên vấn đề (Problem-Based Learning - PBL), thảo luận ca lâm sàng (Case-Based Learning - CBL), giảng dạy bên giường bệnh (Bedside Teaching) và mô phỏng lâm sàng."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "10. Phương pháp kiểm tra, đánh giá",
+              "content": [
+                "Đánh giá toàn diện qua trắc nghiệm khách quan theo chuẩn NBME/USMLE, thi thực hành chạy trạm khách quan cấu trúc (OSCE), đánh giá nhật ký lâm sàng (Logbook) và thi vấn đáp ca bệnh."
+              ],
+              "defaultOpen": false
+            }
+          ]
+        },
+        "accordionPart2": {
+          "title": "PHẦN II. HƯỚNG DẪN ĐÀO TẠO & THỰC HÀNH VIỆN – TRƯỜNG",
+          "items": [
+            {
+              "title": "1. Khối học phần Giáo dục Khai phóng & Tiếng Anh Y khoa",
+              "content": [
+                "Trang bị nền tảng tư duy phản biện, đạo đức y học, tâm lý y học và năng lực đọc hiểu y văn, giao tiếp với bệnh nhân bằng tiếng Anh."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "2. Thực hành Tiền lâm sàng (Pre-clinical & Skill Lab)",
+              "content": [
+                "Sinh viên thực hành giải phẫu trên bàn 3D Anatomage, tiêu bản thực tế và rèn luyện kỹ năng thăm khám, thủ thuật y khoa trên mô hình mô phỏng trước khi tiếp xúc với người bệnh."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "3. Quy định Thực tập Lâm sàng tại Bệnh viện",
+              "content": [
+                "Sinh viên luân khoa tại Bệnh viện Đại học Y Tân Tạo và hơn 18 bệnh viện tuyến cuối tại TP.HCM dưới sự giảng dạy trực tiếp của các bác sĩ giảng viên cơ hữu và thỉnh giảng."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "4. Điều kiện xét công nhận tốt nghiệp",
+              "content": [
+                "Hoàn thành đầy đủ số tín chỉ tích lũy của chương trình, đạt chuẩn năng lực ngoại ngữ và vượt qua kỳ thi tốt nghiệp lý thuyết – lâm sàng tổng hợp hoặc bảo vệ khóa luận tốt nghiệp."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "5. Chương trình Thực tập Lâm sàng Quốc tế (Overseas Clerkship)",
+              "content": [
+                "Sinh viên xuất sắc được tuyển chọn tham gia các đợt thực tập lâm sàng ngắn hạn từ 4 đến 8 tuần tại các bệnh viện đối tác ở Hoa Kỳ và châu Á."
+              ],
+              "defaultOpen": false
+            }
+          ]
+        }
+      },
+      "undergraduate": {
+        "hero": {
+          "badge": "Đào tạo Đại học & Bác sĩ",
+          "fallbackImage": "/assets/som/program-medicine-md.jpg"
+        },
+        "meta": {
+          "school": "Khoa Y (School of Medicine)",
+          "division": "Khối ngành Khoa học Sức khỏe",
+          "level": "Bác sĩ Y khoa / Cử nhân"
+        }
+      },
+      "graduate": {
+        "hero": {
+          "badge": "Định hướng Nội trú & USMLE",
+          "fallbackImage": "/assets/som/hero-som-clinical.jpg"
+        },
+        "meta": {
+          "school": "Khoa Y (School of Medicine)",
+          "division": "Đào tạo Liên tục & Quốc tế",
+          "level": "USMLE / Nội trú"
+        }
+      }
+    },
+    "programs": {
+      "undergraduate": {
+        "computerScience": {
+          "title": "Y khoa (Bác sĩ Đa khoa - Doctor of Medicine)",
+          "programs": [
+            {
+              "title": "Bác sĩ Y khoa (Doctor of Medicine - MD)",
+              "code": "7720101",
+              "description": "Chương trình 6 năm (209 tín chỉ) tích hợp chuẩn Bộ Y tế Việt Nam và chương trình chuẩn bị thi chứng chỉ hành nghề Y khoa Hoa Kỳ (USMLE Step 1 & Step 2 CK).",
+              "features": "USMLE Step 1 & 2 CK, Giải phẫu 3D Anatomage, Lâm sàng tại 18+ Bệnh viện hạng I TP.HCM, Thực tập tại Hoa Kỳ"
+            }
+          ]
+        },
+        "dataScience": {
+          "title": "Cử nhân Điều dưỡng (Bachelor of Nursing)",
+          "programs": [
+            {
+              "title": "Cử nhân Điều dưỡng chuẩn Quốc tế",
+              "code": "7720301",
+              "description": "Chương trình 4 năm (135 tín chỉ) đào tạo cử nhân điều dưỡng làm chủ quy trình chăm sóc người bệnh toàn diện, hồi sức cấp cứu và định hướng chuẩn NCLEX-RN.",
+              "features": "Chăm sóc điều dưỡng toàn diện, Mô phỏng lâm sàng OSCE, Kiểm soát nhiễm khuẩn, Tiếng Anh Điều dưỡng quốc tế"
+            }
+          ]
+        },
+        "artificialIntelligence": {
+          "title": "Cử nhân Kỹ thuật Xét nghiệm Y học",
+          "programs": [
+            {
+              "title": "Cử nhân Kỹ thuật Xét nghiệm Y học (Medical Laboratory Technology)",
+              "code": "7720601",
+              "description": "Chương trình 4 năm (135 tín chỉ) chuyên sâu về Huyết học, Hóa sinh lâm sàng, Vi sinh – Ký sinh trùng, Sinh học phân tử và Quản lý chất lượng phòng xét nghiệm ISO 15189.",
+              "features": "Huyết học – Truyền máu, Hóa sinh – Miễn dịch, Chẩn đoán phân tử PCR, Quản lý chất lượng ISO 15189"
+            }
+          ]
+        }
+      },
+      "graduate": {
+        "computerScience": {
+          "title": "Chương trình Tích hợp USMLE & Lâm sàng Hoa Kỳ",
+          "programs": [
+            {
+              "title": "Lộ trình USMLE & Thực tập Lâm sàng Hoa Kỳ",
+              "code": "SOM-USMLE",
+              "description": "Chương trình huấn luyện chuyên sâu USMLE Step 1, Step 2 CK và thực tập lâm sàng tại hệ thống bệnh viện đối tác ở Indiana & Delaware, Hoa Kỳ.",
+              "features": "USMLE Step 1, USMLE Step 2 CK, Clinical Clerkship in USA, Cardiovascular Research Fellowship"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "Giới thiệu Khoa Y",
+    "subtitle": "Khoa Y – Trường Đại học Tân Tạo (TTU School of Medicine)",
+    "description": "Thành lập với sứ mệnh đào tạo thế hệ bác sĩ, điều dưỡng và chuyên gia xét nghiệm y học đạt chuẩn quốc tế, Khoa Y Đại học Tân Tạo kết hợp tinh hoa giáo dục Y khoa Hoa Kỳ với truyền thống Y đức Hải Thượng Lãn Ông.",
+    "heroImageAlt": "Lễ Khoác Áo Blouse Trắng của sinh viên Khoa Y Trường Đại học Tân Tạo",
+    "heroMediaEyebrow": "Y học Hoa Kỳ – Y đức Hải Thượng",
+    "heroMediaTitle": "Đào tạo người thầy thuốc có tâm, có tầm và hội nhập toàn cầu",
+    "heroMediaDescription": "Bác sĩ Y khoa (MD) · Cử nhân Điều dưỡng · Kỹ thuật Xét nghiệm Y học · USMLE",
+    "whatWeDo": "SỨ MỆNH ĐÀO TẠO",
+    "ourApproach": "PHƯƠNG PHÁP GIÁO DỤC Y KHOA",
+    "howWeDoIt": "MÔ HÌNH VIỆN – TRƯỜNG",
+    "howWeEducate": "CHÚNG TÔI ĐÀO TẠO NHƯ THẾ NÀO",
+    "howWeOperate": "HỆ SINH THÁI HỌC THUẬT – LÂM SÀNG",
+    "ourPhilosophy": "TRIẾT LÝ GIÁO DỤC",
+    "liberalArtsTitle": "Giáo dục Khai phóng trong Y khoa",
+    "liberalArtsDescription": "Nền tảng giáo dục khai phóng giúp người thầy thuốc tương lai phát triển tư duy phản biện lâm sàng, sự thấu cảm sâu sắc với người bệnh và khả năng ra quyết định y khoa chính xác.",
+    "lifelongLearningTitle": "Học tập Suốt đời & Y học Thực chứng",
+    "lifelongLearningDescription": "Y học không ngừng tiến bộ mỗi ngày. Sinh viên Khoa Y được rèn luyện năng lực tự học suốt đời, cập nhật y văn thế giới và thực hành y học dựa trên bằng chứng (Evidence-Based Medicine).",
+    "qualityAssuranceTitle": "Chuẩn hóa Quốc tế (WDOMS & USMLE)",
+    "qualityAssuranceDescription": "Chương trình giảng dạy song ngữ, tích hợp chuẩn USMLE Hoa Kỳ và được công nhận bởi WDOMS & ECFMG, mở ra cánh cửa hành nghề và học Nội trú trên toàn cầu.",
+    "founded": "Thành lập Khoa Y",
+    "facultyLevel": "Giáo sư, Phó Giáo sư, Tiến sĩ & Bác sĩ đầu ngành",
+    "programs": "Ngành đào tạo Đại học",
+    "visionYear": "Bệnh viện thực hành liên kết",
+    "organizationalStructureTitle": "Cơ cấu tổ chức Khoa Y",
+    "facultyExcellenceTitle": "Hội đồng Giáo sư & Ban Giảng huấn",
+    "technologyIntegrationTitle": "Công nghệ Mô phỏng & Giải phẫu 3D",
+    "technologyIntegrationDescription": "Ứng dụng bàn giải phẫu điện tử 3D Anatomage, trung tâm mô phỏng lâm sàng OSCE và trí tuệ nhân tạo trong chẩn đoán và nghiên cứu tim mạch.",
+    "transparentEnvironmentTitle": "Văn hóa Học thuật & Y đức",
+    "transparentEnvironmentDescription": "Môi trường học thuật nghiêm túc, nhân văn, đề cao sự chính trực khoa học và tinh thần phụng sự người bệnh theo Lời thề Hippocrates và Hải Thượng Lãn Ông.",
+    "readyToStart": "Sẵn sàng bắt đầu hành trình Y khoa cùng chúng tôi?",
+    "joinEcosystem": "Gia nhập cộng đồng sinh viên và bác sĩ tương lai tại Khoa Y Đại học Tân Tạo.",
+    "explorePrograms": "Khám phá các ngành học",
+    "contactUs": "Liên hệ tư vấn",
+    "history": "Lịch sử hình thành & Phát triển",
+    "historyText": "Khoa Y Trường Đại học Tân Tạo được thành lập với khát vọng xây dựng một trường y khoa theo tiêu chuẩn Hoa Kỳ ngay tại Việt Nam. Dưới sự dẫn dắt của GS.TS.BS Thạch Nguyễn – Phó Hiệu trưởng kiêm Trưởng Khoa Y, cùng các bậc thầy y học Việt Nam như NGND GS.TS.BS Lê Hoàng Ninh, PGS.TS.BS Phạm Nguyễn Vinh, GS.TS.BS Lê Quang Nghĩa, GS.TS.BS Lê Văn Cường, Khoa Y đã đào tạo nhiều khóa bác sĩ, điều dưỡng và cử nhân xét nghiệm xuất sắc đang công tác tại Việt Nam và Hoa Kỳ.",
+    "faculty": "Đội ngũ Giáo sư & Giảng viên",
+    "facultyText": "Khoa Y quy tụ đội ngũ giảng viên hùng hậu gồm các Giáo sư, Phó Giáo sư, Tiến sĩ, Bác sĩ Chuyên khoa II giàu kinh nghiệm lâm sàng từ Hoa Kỳ và các bệnh viện tuyến cuối tại TP.HCM, trực tiếp giảng dạy lý thuyết và cầm tay chỉ việc tại bệnh viện.",
+    "mission": "Sứ Mệnh",
+    "missionText": "Đào tạo nguồn nhân lực y tế chất lượng cao (Bác sĩ Y khoa, Điều dưỡng, Kỹ thuật Xét nghiệm Y học) có năng lực chuyên môn đạt chuẩn quốc tế, giàu y đức, thành thạo tiếng Anh và nghiên cứu khoa học nhằm nâng cao chất lượng chăm sóc sức khỏe nhân dân.",
+    "vision": "Tầm nhìn",
+    "visionText": "Trở thành trung tâm đào tạo và nghiên cứu y khoa uy tín hàng đầu tại Việt Nam và khu vực Đông Nam Á theo mô hình giáo dục y khoa Hoa Kỳ, nơi sinh viên tốt nghiệp đủ năng lực vượt qua kỳ thi USMLE và làm việc tại các cơ sở y tế quốc tế.",
+    "values": "Giá trị cốt lõi",
+    "valuesText": "Những giá trị định hình nhân cách và năng lực của người thầy thuốc Đại học Tân Tạo.",
+    "valuesList": [
+      "Y đức & Nhân ái",
+      "Chính trực Khoa học",
+      "Xuất sắc Lâm sàng",
+      "Hợp tác Quốc tế",
+      "Giáo dục Khai phóng",
+      "Phụng sự Cộng đồng",
+      "Học tập Suốt đời"
+    ],
+    "philosophy": "Triết lý Giáo dục Y khoa",
+    "philosophyText": "Y học Hoa Kỳ – Y đức Hải Thượng",
+    "philosophyDetails": {
+      "liberalArts": {
+        "title": "Y học Hoa Kỳ (American Medicine)",
+        "description": "Tiếp cận kiến thức y khoa hiện đại, y học thực chứng, kỹ năng lâm sàng chuẩn hóa theo cấu trúc USMLE và nghiên cứu khoa học chuẩn quốc tế."
+      },
+      "lifelongLearning": {
+        "title": "Y đức Hải Thượng (Hai Thuong Ethics)",
+        "description": "Thấm nhuần lời dạy của Đại danh y Hải Thượng Lãn Ông Lê Hữu Trác và Lời thề Hippocrates: coi nỗi đau của người bệnh như nỗi đau của chính mình."
+      }
+    },
+    "organization": "Cơ cấu tổ chức",
+    "organizationText": "Khoa Y gồm Ban Chủ nhiệm Khoa, Hội đồng Khoa học & Đào tạo, Văn phòng Khoa, khối Bộ môn Y học Cơ sở, khối Bộ môn Lâm sàng (Nội, Ngoại, Sản, Nhi), Bộ môn Điều dưỡng, Bộ môn Kỹ thuật Xét nghiệm Y học và Hệ thống Bệnh viện Thực hành.",
+    "qualityPolicy": "Cam kết Chất lượng Đào tạo",
+    "qualityPolicyText": "Khoa Y cam kết đảm bảo chuẩn đầu ra năng lực bác sĩ và cử nhân sức khỏe, kết hợp kiểm tra đánh giá khách quan (NBME/OSCE), tăng cường thời lượng thực hành bệnh viện và hội nhập quốc tế.",
+    "dean": "Trưởng Khoa Y",
+    "deanName": "GS.TS.BS. Thạch Nguyễn, MD, FACC, FSCAI",
+    "contact": "Thông tin liên hệ Khoa Y",
+    "phone": "(+84) 272 376 9216",
+    "email": "medicine@ttu.edu.vn"
+  },
+  "students": {
+    "badge": "Đời sống sinh viên Y khoa",
+    "title": "Đời sống Sinh viên Khoa Y",
+    "subtitle": "Rèn luyện Y thuật – Bồi đắp Y đức – Hội nhập Toàn cầu",
+    "description": "Tại Khoa Y TTU, sinh viên được đồng hành toàn diện từ giảng đường, phòng thí nghiệm tiền lâm sàng, các đợt đi buồng bệnh viện cho đến các câu lạc bộ học thuật USMLE và thiện nguyện y tế cộng đồng.",
+    "studentSupport": "Hệ thống hỗ trợ sinh viên Y khoa",
+    "supportServices": [
+      {
+        "title": "Cố vấn Học thuật & USMLE",
+        "description": "Đồng hành 1-1 cùng các Giáo sư và bác sĩ trẻ xây dựng lộ trình học tập, ôn luyện USMLE Step 1 & Step 2 CK ngay từ những năm đầu."
+      },
+      {
+        "title": "Điều phối Lâm sàng & Thực tập Mỹ",
+        "description": "Hỗ trợ lịch luân khoa tại 18+ bệnh viện TP.HCM và thủ tục hồ sơ đi thực tập lâm sàng (Clerkship) tại Hoa Kỳ."
+      },
+      {
+        "title": "Nhóm Nghiên cứu Sinh viên (Medical Research)",
+        "description": "Hướng dẫn sinh viên viết đề cương, phân tích thống kê y sinh, viết bản thảo và báo cáo tại các hội nghị y khoa quốc tế."
+      },
+      {
+        "title": "CLB Học thuật & Khám bệnh Thiện nguyện",
+        "description": "CLB Tiếng Anh Y khoa, CLB Kỹ năng Cấp cứu và các chuyến khám bệnh, phát thuốc miễn phí cho người dân vùng sâu vùng xa."
+      }
+    ],
+    "achievements": "Dấu ấn Sinh viên & Bác sĩ TTU",
+    "achievementStats": [
+      {
+        "number": "2026",
+        "label": "Công bố đồng tác giả trên tạp chí Nature Medicine & Circulation (AHA)"
+      },
+      {
+        "number": "2025",
+        "label": "Bác sĩ TTU trúng tuyển Bác sĩ Nội trú tại Hoa Kỳ & ĐH Y Dược TP.HCM"
+      },
+      {
+        "number": "2025",
+        "label": "Đoàn sinh viên Y khoa hoàn thành khóa thực tập lâm sàng tại Indiana, Hoa Kỳ"
+      },
+      {
+        "number": "18+",
+        "label": "Bệnh viện hạng I tại TP.HCM tiếp nhận sinh viên Khoa Y luân khoa"
+      }
+    ],
+    "testimonials": "Chia sẻ từ cộng đồng Khoa Y",
+    "testimonialsList": [
+      {
+        "name": "BS. Nguyễn Quốc Ái",
+        "program": "Bác sĩ Nội trú tại Hoa Kỳ – Cựu sinh viên Khoa Y",
+        "quote": "Chương trình giảng dạy song ngữ tích hợp USMLE và cơ hội đi thực tập lâm sàng tại Mỹ dưới sự dìu dắt của GS. Thạch Nguyễn đã giúp tôi tự tin bước vào môi trường Bác sĩ Nội trú tại Hoa Kỳ."
+      },
+      {
+        "name": "BS. Trần Minh Khoa",
+        "program": "Bác sĩ Nội trú Ngoại khoa – Cựu sinh viên Khoa Y",
+        "quote": "Những năm tháng luân khoa tại Bệnh viện Chợ Rẫy, Bình Dân và Nhi Đồng cùng nền tảng giải phẫu vững chắc tại TTU là hành trang vô giá cho sự nghiệp phẫu thuật viên của tôi."
+      }
+    ],
+    "ctaTitle": "Gia nhập cộng đồng Sinh viên Khoa Y TTU",
+    "ctaDescription": "Hãy bắt đầu hành trình chinh phục tri thức y học hiện đại và phụng sự sức khỏe cộng đồng tại Trường Đại học Tân Tạo.",
+    "ctaPrimary": "Đăng ký xét tuyển",
+    "ctaSecondary": "Xem sổ tay sinh viên"
+  },
+  "studentsActivities": {
+    "badge": "Hoạt động & Y đức",
+    "title": "Trải nghiệm Y khoa ngoài giảng đường",
+    "subtitle": "Nơi tri thức lâm sàng hòa quyện cùng lòng nhân ái và tinh thần phụng sự cộng đồng.",
+    "description": "Từ Lễ Khoác Áo Blouse Trắng thiêng liêng đến các chiến dịch khám chữa bệnh thiện nguyện và hội nghị khoa học trẻ, sinh viên Khoa Y luôn năng động và giàu trách nhiệm xã hội.",
+    "highlights": [
+      {
+        "title": "Lễ Khoác Áo Blouse Trắng (White Coat Ceremony)",
+        "description": "Nghi thức truyền thống trang trọng đánh dấu bước ngoặt của tân sinh viên Khoa Y khi tuyên đọc Lời thề Hippocrates và Hải Thượng Lãn Ông."
+      },
+      {
+        "title": "Y tế Cộng đồng & Thiện nguyện",
+        "description": "Tổ chức các đợt khám sàng lọc tim mạch, đo huyết áp, xét nghiệm máu và cấp phát thuốc miễn phí cho đồng bào có hoàn cảnh khó khăn."
+      },
+      {
+        "title": "CLB Học thuật USMLE & Nghiên cứu Trẻ",
+        "description": "Sinh hoạt chuyên đề ca lâm sàng bằng tiếng Anh (Morning Report & Journal Club) hàng tuần cùng các giáo sư quốc tế."
+      }
+    ],
+    "programs": [
+      {
+        "title": "Hoạt động Học thuật & Lâm sàng",
+        "summary": "Rèn luyện bản lĩnh chuyên môn và giao tiếp y khoa quốc tế.",
+        "details": [
+          "Sinh hoạt Journal Club phân tích các bài báo mới trên NEJM, Lancet, JAMA và Nature Medicine",
+          "Cuộc thi Olympic Giải phẫu học, Sinh lý học và Chẩn đoán Lâm sàng OSCE",
+          "Hội thảo định hướng thi USMLE và giao lưu trực tuyến với các bác sĩ nội trú tại Mỹ"
+        ]
+      },
+      {
+        "title": "Sáng kiến Phụng sự Cộng đồng",
+        "summary": "Lan tỏa tinh thần Y đức Hải Thượng đến từng người bệnh.",
+        "details": [
+          "Chương trình Hiến máu Nhân đạo 'Giọt hồng Blouse trắng' định kỳ mỗi học kỳ",
+          "Đội hình truyền thông giáo dục sức khỏe học đường và phòng chống dịch bệnh",
+          "Hỗ trợ chăm sóc giảm nhẹ và đồng hành tâm lý cùng bệnh nhân nội trú"
+        ]
+      }
+    ],
+    "storiesTitle": "Điểm nhấn hoạt động Khoa Y",
+    "stories": [
+      {
+        "title": "Lễ Khoác Áo Blouse Trắng",
+        "description": "Tân sinh viên Khoa Y đón nhận chiếc áo blouse trắng từ các Giáo sư đầu ngành và tuyên thệ giữ trọn y đức."
+      },
+      {
+        "title": "Thực tập Lâm sàng tại Indiana, Hoa Kỳ",
+        "description": "Sinh viên Y khoa TTU tham gia đi buồng, hội chẩn và học tập mô hình bệnh viện hiện đại tại St. Mary Medical Center."
+      },
+      {
+        "title": "Hội nghị Khoa học Sức khỏe Sinh viên",
+        "description": "Sinh viên trình bày các đề tài nghiên cứu tim mạch, điều dưỡng và xét nghiệm bằng tiếng Anh trước hội đồng giáo sư."
+      }
+    ],
+    "ctaTitle": "Cùng kiến tạo đời sống sinh viên Y khoa ý nghĩa",
+    "ctaDescription": "Tham gia các câu lạc bộ học thuật, nhóm nghiên cứu và đội hình thiện nguyện y tế của Khoa Y TTU.",
+    "ctaPrimary": "Liên hệ Đoàn – Hội Khoa Y",
+    "ctaSecondary": "Xem lịch sự kiện"
+  },
+  "studentsInternships": {
+    "badge": "Lâm sàng & Nội trú",
+    "title": "Đào tạo Viện – Trường & Thực tập Quốc tế",
+    "subtitle": "Thực hành lâm sàng vững vàng tại أكثر 18 bệnh viện tuyến cuối TP.HCM và các trung tâm y khoa Hoa Kỳ.",
+    "description": "Ngay từ năm thứ 3, sinh viên Khoa Y bước vào các vòng luân khoa lâm sàng (Clinical Rotations) chặt chẽ tại hệ thống bệnh viện thực hành lớn, đồng thời chuẩn bị cho lộ trình Bác sĩ Nội trú và kỳ thi USMLE.",
+    "pillars": [
+      {
+        "title": "Mạng lưới 18+ Bệnh viện Tuyến đầu",
+        "description": "Thực hành Nội, Ngoại, Sản, Nhi và Chuyên khoa tại BV Chợ Rẫy, Bình Dân, Nhân Dân 115, Nhi Đồng 1, Nhi Đồng 2, Từ Dũ, Hùng Vương, Quân Y 175..."
+      },
+      {
+        "title": "Thực tập Lâm sàng tại Hoa Kỳ",
+        "description": "Cơ hội tham gia khóa thực tập lâm sàng 4–8 tuần tại St. Mary Medical Center (Indiana), ChristianaCare (Delaware) và Hermann Memorial (Texas)."
+      },
+      {
+        "title": "Cố vấn Thi Bác sĩ Nội trú & USMLE",
+        "description": "Hướng dẫn hồ sơ ERAS/NRMP Match tại Hoa Kỳ, ôn thi Bác sĩ Nội trú Việt Nam và kết nối tuyển dụng tại các bệnh viện lớn."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Lộ trình Luân khoa Lâm sàng",
+        "points": [
+          "Năm 1–2: Khoa học cơ bản, Y học cơ sở tích hợp, Giải phẫu 3D Anatomage và Kỹ năng Tiền lâm sàng (OSCE)",
+          "Năm 3–4: Luân khoa Nội – Ngoại – Sản – Nhi cơ sở tại Bệnh viện Đại học Y Tân Tạo và các bệnh viện đa khoa TP.HCM",
+          "Năm 5–6: Luân khoa chuyên sâu, Trực cấp cứu, Thực tập tốt nghiệp và Thực tập lâm sàng tự chọn tại Hoa Kỳ"
+        ]
+      },
+      {
+        "title": "Hành trang Nghề nghiệp Y tế",
+        "points": [
+          "Hỗ trợ đăng ký tài khoản ECFMG và luyện thi USMLE Step 1, Step 2 CK",
+          "Ngày hội Việc làm Y tế kết nối trực tiếp với Giám đốc và Trưởng phòng Tổ chức các bệnh viện",
+          "Hỗ trợ thực hành 12–18 tháng để cấp Giấy phép hành nghề khám bệnh, chữa bệnh"
+        ]
+      }
+    ],
+    "resourcesTitle": "Cơ sở Thực hành & Tuyển dụng Tiêu biểu",
+    "resources": [
+      {
+        "title": "Bệnh viện Đại học Y Tân Tạo",
+        "description": "Bệnh viện thực hành trực thuộc ngay tại khuôn viên trường, nơi sinh viên rèn luyện kỹ năng lâm sàng, xét nghiệm và điều dưỡng hàng ngày."
+      },
+      {
+        "title": "Khối Bệnh viện Tuyến cuối TP.HCM",
+        "description": "BV Chợ Rẫy, BV Bình Dân, BV Nhân Dân 115, BV Nhi Đồng 1 & 2, BV Từ Dũ, BV Hùng Vương, BV Thống Nhất, BV Nguyễn Tri Phương."
+      },
+      {
+        "title": "St. Mary Medical Center (Indiana, USA)",
+        "description": "Trung tâm y khoa tại Hoa Kỳ tiếp nhận sinh viên Khoa Y TTU thực tập lâm sàng Tim mạch và Nội khoa dưới sự hướng dẫn của GS. Thạch Nguyễn."
+      }
+    ],
+    "ctaTitle": "Định hình sự nghiệp Y khoa của bạn",
+    "ctaDescription": "Liên hệ bộ phận Điều phối Lâm sàng & Hướng nghiệp Khoa Y để được tư vấn lộ trình thực tập và nội trú.",
+    "ctaPrimary": "Tư vấn lộ trình lâm sàng",
+    "ctaSecondary": "Xem cơ hội nghề nghiệp"
+  },
+  "studentsAlumni": {
+    "badge": "Cựu sinh viên & Bác sĩ",
+    "title": "Mạng lưới Bác sĩ & Cựu sinh viên Khoa Y",
+    "subtitle": "Tự hào thế hệ thầy thuốc trưởng thành từ mái trường Đại học Tân Tạo đang phụng sự tại Việt Nam và Hoa Kỳ.",
+    "description": "Các thế hệ bác sĩ, điều dưỡng và cử nhân xét nghiệm tốt nghiệp Khoa Y TTU hiện đang công tác tại các bệnh viện tuyến đầu trong nước, trúng tuyển Bác sĩ Nội trú và tiếp tục tu nghiệp tại Hoa Kỳ, châu Âu và châu Á.",
+    "impact": [
+      {
+        "value": "500+",
+        "label": "Bác sĩ & Cử nhân tốt nghiệp",
+        "description": "Đang công tác tại các bệnh viện công lập, quốc tế và viện nghiên cứu"
+      },
+      {
+        "value": "95%+",
+        "label": "Có việc làm & học tiếp",
+        "description": "Trong vòng 6 tháng sau khi tốt nghiệp tại các cơ sở y tế uy tín"
+      },
+      {
+        "value": "US & VN",
+        "label": "Bác sĩ Nội trú (Residency)",
+        "description": "Nhiều cựu sinh viên vượt qua USMLE và trúng tuyển Nội trú tại Mỹ & Việt Nam"
+      }
+    ],
+    "initiatives": [
+      {
+        "title": "Cố vấn Đàn em (Peer & Alumni Mentorship)",
+        "description": "Các bác sĩ cựu sinh viên trực tiếp hướng dẫn sinh viên khóa dưới ôn thi USMLE, kỹ năng đi buồng và chuẩn bị kỳ thi Bác sĩ Nội trú."
+      },
+      {
+        "title": "Hợp tác Nghiên cứu Lâm sàng Liên viện",
+        "description": "Kết nối mạng lưới bác sĩ TTU tại nhiều bệnh viện để thực hiện các nghiên cứu đa trung tâm và công bố quốc tế."
+      },
+      {
+        "title": "Quỹ Học bổng & Khám bệnh Cộng đồng",
+        "description": "Cựu sinh viên quay về trường chia sẻ kinh nghiệm và đồng hành trong các chuyến khám chữa bệnh thiện nguyện."
+      }
+    ],
+    "storiesTitle": "Gương mặt Cựu sinh viên Tiêu biểu",
+    "stories": [
+      {
+        "name": "BS. Nguyễn Quốc Ái",
+        "role": "Bác sĩ Nội trú Nội khoa tại Hoa Kỳ",
+        "quote": "Khoa Y TTU đã trao cho tôi nền tảng y học chuẩn Hoa Kỳ, khả năng tư duy nghiên cứu độc lập và sự tự tin để chinh phục kỳ thi USMLE."
+      },
+      {
+        "name": "BS. Lê Thanh Tùng",
+        "role": "Bác sĩ Tim mạch – Công bố quốc tế Q1",
+        "quote": "Được làm việc trong nhóm nghiên cứu động học dòng chảy mạch vành của GS. Thạch Nguyễn từ khi còn là sinh viên đã mở ra con đường học thuật quốc tế cho tôi."
+      }
+    ],
+    "ctaTitle": "Kết nối cùng Hội Cựu sinh viên Khoa Y TTU",
+    "ctaDescription": "Cập nhật thông tin công tác, tham gia cố vấn cho sinh viên hoặc hợp tác nghiên cứu lâm sàng cùng Khoa.",
+    "ctaPrimary": "Kết nối mạng lưới Alumni",
+    "ctaSecondary": "Chia sẻ câu chuyện thành công"
+  },
+  "research": {
+    "title": "Nghiên cứu Khoa học & Công bố Quốc tế",
+    "subtitle": "Tiên phong nghiên cứu Tim mạch, Y sinh học phân tử và Lâm sàng chuẩn Quốc tế",
+    "description": "Khoa Y Trường Đại học Tân Tạo là một trong những đơn vị dẫn đầu về công bố quốc tế ISI/Scopus tại TTU, nổi bật với hướng nghiên cứu mới về động học dòng chảy mạch vành (Coronary Artery Flow Dynamics), ứng dụng AI trong y học, dược lý học phân tử NAFOSTED và chăm sóc điều dưỡng thực chứng.",
+    "heroBadge": "Nghiên cứu Y học & Y sinh",
+    "heroCtaPrimary": "Xem công bố quốc tế",
+    "heroCtaSecondary": "Khám phá đề tài khoa học",
+    "highlightsTitle": "Năng lực nghiên cứu Khoa Y",
+    "highlights": [
+      {
+        "value": "Q1 / ISI",
+        "label": "Tạp chí Y khoa hàng đầu",
+        "description": "Công bố trên Nature Medicine, Circulation (AHA), Frontiers in Cardiovascular Medicine, Aging and Cancer."
+      },
+      {
+        "value": "NAFOSTED",
+        "label": "Đề tài Cấp Quốc gia & Quốc tế",
+        "description": "Triển khai các đề tài y sinh phân tử, tim mạch can thiệp và dịch tễ học lâm sàng."
+      },
+      {
+        "value": "04",
+        "label": "Nhóm nghiên cứu mũi nhọn",
+        "description": "Tim mạch Can thiệp, Ngoại khoa – Ung bướu, Y sinh Phân tử – Xét nghiệm, Điều dưỡng – Y tế Công cộng."
+      },
+      {
+        "value": "100%",
+        "label": "Sinh viên tiếp cận NCKH",
+        "description": "Sinh viên Y khoa được đào tạo phương pháp nghiên cứu và tham gia đồng tác giả bài báo quốc tế."
+      }
+    ],
+    "researchAreas": "Các hướng nghiên cứu trọng điểm",
+    "areas": [
+      {
+        "title": "Tim mạch Can thiệp & Động học Dòng chảy Mạch vành",
+        "description": "Nghiên cứu cơ chế huyết động học động mạch vành, chẩn đoán hình ảnh học mạch máu và trí tuệ nhân tạo trong dự báo biến cố tim mạch dưới sự dẫn dắt của GS.TS.BS Thạch Nguyễn.",
+        "projects": [
+          "Động học dòng chảy mạch vành (Coronary Flow Dynamics)",
+          "Ứng dụng AI phân tích chụp mạch vành (Angiography AI)",
+          "Suy tim và bệnh lý van tim người cao tuổi",
+          "Hợp tác công bố cùng Hiệp hội Tim mạch Hoa Kỳ (AHA/ACC/SCAI)"
+        ]
+      },
+      {
+        "title": "Khoa học Y sinh, Vi sinh & Chẩn đoán Phân tử",
+        "description": "Nghiên cứu cơ chế phân tử bệnh lý truyền nhiễm, ký sinh trùng, kháng kháng sinh và phát triển quy trình xét nghiệm sinh học phân tử chính xác.",
+        "projects": [
+          "Đề tài NAFOSTED về cơ chế phân tử và dược lý",
+          "Giám sát đề kháng kháng sinh tại bệnh viện",
+          "Ký sinh trùng học lâm sàng và bệnh nhiệt đới",
+          "Chuẩn hóa chất lượng xét nghiệm huyết học – hóa sinh"
+        ]
+      },
+      {
+        "title": "Ngoại khoa, Giải phẫu Ứng dụng & Ung bướu",
+        "description": "Nghiên cứu giải phẫu học ứng dụng trong phẫu thuật ít xâm lấn, chẩn đoán sớm và điều trị đa mô thức ung thư tiêu hóa, gan mật.",
+        "projects": [
+          "Giải phẫu học 3D và biến thể mạch máu tạng",
+          "Phẫu thuật nội soi tiêu hóa và gan mật tụy",
+          "Dấu ấn sinh học trong lão hóa và ung thư (Aging & Cancer)",
+          "Đào tạo mô phỏng ngoại khoa thực nghiệm"
+        ]
+      },
+      {
+        "title": "Y tế Công cộng, Dịch tễ học & Khoa học Điều dưỡng",
+        "description": "Đánh giá gánh nặng bệnh tật toàn cầu (Global Burden of Disease), an toàn người bệnh, chăm sóc điều dưỡng dựa trên bằng chứng và quản lý bệnh viện.",
+        "projects": [
+          "Hợp tác nghiên cứu GBD đăng trên Nature Medicine (2026)",
+          "Nâng cao chất lượng chăm sóc điều dưỡng hồi sức (Nursing Reports)",
+          "Sàng lọc sức khỏe tim mạch – chuyển hóa cộng đồng",
+          "Giáo dục y khoa và chuẩn hóa đánh giá OSCE"
+        ]
+      }
+    ],
+    "publications": "Công bố Quốc tế Tiêu biểu (2025 – 2026)",
+    "publicationsList": [
+      {
+        "title": "Global burden and projections of infectious diseases and antimicrobial resistance",
+        "authors": "Nhóm hợp tác GBD Quốc tế & Giảng viên Khoa Y TTU",
+        "journal": "Nature Medicine (Q1, IF > 50)",
+        "year": "2026"
+      },
+      {
+        "title": "Acoustic and hemodynamic characterization of turbulent coronary arterial flow",
+        "authors": "Thach Nguyen, Ernest F. Talarico Jr. và cộng sự",
+        "journal": "Frontiers in Cardiovascular Medicine / Circulation AHA",
+        "year": "2026"
+      }
+    ],
+    "collaborations": "Đối tác Học thuật & Bệnh viện Quốc tế",
+    "collaborationList": [
+      "St. Mary Medical Center (Indiana, Hoa Kỳ)",
+      "ChristianaCare Health System (Delaware, Hoa Kỳ)",
+      "Indiana University Northwest – School of Medicine",
+      "Bệnh viện Chợ Rẫy, BV Bình Dân, BV Nhân Dân 115, BV Nhi Đồng 1 & 2",
+      "Bệnh viện Đại học Y Tân Tạo"
+    ],
+    "impactTitle": "Nghiên cứu phục vụ sự sống",
+    "impactDescription": "Mỗi đề tài và bài báo khoa học tại Khoa Y TTU đều hướng tới mục tiêu cải thiện phác đồ chẩn đoán, điều trị và nâng cao chất lượng sống cho người bệnh.",
+    "impactCards": [
+      {
+        "title": "Đột phá Lý thuyết Huyết động Mạch vành",
+        "description": "Ứng dụng nguyên lý cơ học chất lỏng để giải thích cơ chế hình thành mảng xơ vữa và nhồi máu cơ tim cấp."
+      },
+      {
+        "title": "Đào tạo Bác sĩ – Nhà khoa học (Physician-Scientist)",
+        "description": "Sinh viên được trực tiếp thu thập dữ liệu lâm sàng, viết bài báo tiếng Anh và báo cáo tại các hội nghị y khoa ở Mỹ và châu Á."
+      },
+      {
+        "title": "Chuyển giao vào Thực hành Bệnh viện",
+        "description": "Kết quả nghiên cứu được ứng dụng trực tiếp trong tầm soát, chẩn đoán và chăm sóc bệnh nhân tại hệ thống bệnh viện liên kết."
+      }
+    ],
+    "ctaTitle": "Hợp tác Nghiên cứu Y khoa cùng Khoa Y TTU",
+    "ctaDescription": "Kết nối với các nhóm nghiên cứu của Khoa Y để triển khai thử nghiệm lâm sàng, đề tài liên viện và đồng công bố quốc tế.",
+    "ctaPrimary": "Liên hệ hợp tác nghiên cứu",
+    "ctaSecondary": "Xem danh mục công bố"
+  },
+  "researchProjects": {
+    "badge": "Đề tài khoa học",
+    "title": "Các chương trình & đề tài nghiên cứu Y khoa",
+    "subtitle": "Khám phá các đề tài cấp Quốc gia (NAFOSTED), cấp Trường và hợp tác đa trung tâm quốc tế của giảng viên và sinh viên Khoa Y.",
+    "labels": {
+      "totalProjects": "Tổng số đề tài",
+      "ongoing": "Đang thực hiện",
+      "completed": "Đã nghiệm thu",
+      "statusOngoing": "Đang thực hiện",
+      "statusCompleted": "Đã hoàn thành"
+    },
+    "filters": [
+      "Tim mạch Can thiệp",
+      "Y sinh Phân tử",
+      "Ung bướu & Ngoại khoa",
+      "Y tế Công cộng & Điều dưỡng"
+    ],
+    "spotlight": {
+      "title": "Các hướng đề tài trọng điểm",
+      "description": "Kết hợp nghiên cứu cơ bản tại phòng thí nghiệm sinh học phân tử với nghiên cứu lâm sàng tại các bệnh viện tuyến cuối."
+    },
+    "projects": [
+      {
+        "title": "Nghiên cứu động học dòng chảy mạch vành và ứng dụng AI trong dự báo tổn thương động mạch vành",
+        "leaders": "Chủ nhiệm: GS.TS.BS. Thạch Nguyễn",
+        "focus": "Lĩnh vực: Tim mạch Can thiệp",
+        "summary": "Phân tích hình thái dòng chảy rối (turbulent flow) và hiện tượng ăn mòn thành mạch trên hình ảnh chụp mạch vành kết hợp mô hình học sâu.",
+        "timeline": "2024 – 2026",
+        "status": "Đang thực hiện",
+        "tags": [
+          "Tim mạch",
+          "Coronary Flow",
+          "AI Y khoa"
+        ]
+      },
+      {
+        "title": "Đề tài NAFOSTED: Nghiên cứu cơ chế phân tử và hoạt tính sinh học của các hợp chất tự nhiên định hướng điều trị đích",
+        "leaders": "Chủ nhiệm: Nhóm Nghiên cứu Y sinh Phân tử Khoa Y TTU",
+        "focus": "Lĩnh vực: Y sinh Phân tử",
+        "summary": "Đánh giá tác động ức chế tín hiệu tế bào ung thư và kháng viêm trên mô hình thực nghiệm sinh học phân tử.",
+        "timeline": "2023 – 2026",
+        "status": "Đang thực hiện",
+        "tags": [
+          "NAFOSTED",
+          "Sinh học phân tử",
+          "Dược lý"
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Đồng hành phát triển nghiên cứu Y sinh – Lâm sàng",
+      "description": "Khoa Y luôn chào đón sự hợp tác từ các bệnh viện, viện nghiên cứu và các trường đại học y khoa trong và ngoài nước.",
+      "primary": "Đề xuất hợp tác đề tài",
+      "secondary": "Liên hệ Hội đồng Khoa học"
+    }
+  },
+  "researchPublications": {
+    "badge": "Công bố quốc tế",
+    "title": "Công bố Khoa học Quốc tế ISI / Scopus",
+    "subtitle": "Các công trình nghiên cứu của giảng viên và sinh viên Khoa Y trên các tạp chí y học uy tín thế giới.",
+    "labels": {
+      "totalPublications": "Tổng số công bố",
+      "thisYear": "Năm 2025–2026",
+      "journals": "Tạp chí Quốc tế",
+      "recentPublications": "Công bố mới nhất",
+      "viewDoi": "Xem bài báo (DOI)",
+      "viewDetails": "Xem chi tiết",
+      "statusOngoing": "Đang thực hiện",
+      "statusCompleted": "Đã xuất bản"
+    },
+    "metrics": [
+      {
+        "value": "100+",
+        "label": "Công bố quốc tế & trong nước"
+      },
+      {
+        "value": "Q1/Q2",
+        "label": "Tạp chí thuộc danh mục WoS/Scopus"
+      },
+      {
+        "value": "15+",
+        "label": "Báo cáo tại Hội nghị AHA / ACC / SCAI"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Tạp chí Quốc tế Uy tín (ISI/Scopus)",
+        "items": [
+          {
+            "title": "Global burden of disease and clinical outcomes collaborative study (Nature Medicine, 2026)",
+            "authors": "Nhóm hợp tác GBD & Khoa Y Đại học Tân Tạo",
+            "where": "Nature Medicine, 2026",
+            "linkLabel": "Xem trên Nature"
+          },
+          {
+            "title": "Coronary artery flow dynamics and plaque vulnerability analysis",
+            "authors": "Thach Nguyen, Ernest F. Talarico Jr. et al.",
+            "where": "Frontiers in Cardiovascular Medicine, 2026",
+            "linkLabel": "Xem tóm tắt"
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Hợp tác công bố học thuật cùng Khoa Y",
+      "description": "Kết nối với đội ngũ giáo sư và nhóm nghiên cứu trẻ của Khoa Y để phát triển các công trình nghiên cứu đa trung tâm.",
+      "primary": "Liên hệ nhóm nghiên cứu",
+      "secondary": "Tải danh mục công bố"
+    }
+  },
+  "news": {
+    "title": "Tin tức & Sự kiện Y khoa",
+    "subtitle": "Nhịp đập Học thuật & Lâm sàng tại Khoa Y",
+    "description": "Cập nhật hoạt động đào tạo, hội nghị khoa học quốc tế, Lễ Khoác Áo Blouse Trắng và hành trình thực tập lâm sàng của sinh viên Khoa Y Đại học Tân Tạo.",
+    "latestNews": "Tin Tức Mới Nhất",
+    "viewDetails": "Đọc bài viết",
+    "viewAllNews": "Xem tất cả tin tức",
+    "newsroom": "Khoa Y / Bản tin",
+    "featuredStory": "Tiêu điểm Khoa Y",
+    "browseByTopic": "Lọc tin theo chuyên mục",
+    "allCategories": "Tất cả",
+    "noNews": "Chưa có bài viết phù hợp.",
+    "breadcrumbLabel": "Đường dẫn trang",
+    "home": "Trang chủ",
+    "topicsEyebrow": "Chuyên mục tin tức",
+    "topicsTitle": "Bản tin theo chủ đề",
+    "topicsDescription": "Theo dõi nhanh các hoạt động đào tạo lâm sàng, hội nghị quốc tế, tuyển sinh và đời sống sinh viên Khoa Y.",
+    "storyCount": "{count} bài viết",
+    "insightsEyebrow": "Hệ sinh thái Học thuật Khoa Y",
+    "insightsTitle": "Nghiên cứu & Thành tựu nổi bật",
+    "insightsDescription": "Điểm truy cập nhanh tới các công bố quốc tế mới nhất, đề tài nghiên cứu và thành tích của bác sĩ, sinh viên Khoa Y.",
+    "researchLabel": "Nghiên cứu Y khoa",
+    "achievementsLabel": "Thành tựu",
+    "publicationLabel": "Công bố ISI/Scopus",
+    "projectLabel": "Đề tài",
+    "researchArchiveLabel": "Kho dữ liệu nghiên cứu",
+    "researchFallbackTitle": "Đề tài và công bố quốc tế tại Khoa Y",
+    "researchFallbackDescription": "Khám phá các công trình nghiên cứu tim mạch, y sinh phân tử, điều dưỡng và y tế công cộng của Khoa Y TTU.",
+    "achievementsFallbackTitle": "Dấu ấn Sinh viên & Bác sĩ Khoa Y",
+    "achievementsFallbackDescription": "Theo dõi thành tích thi USMLE, trúng tuyển Bác sĩ Nội trú và giải thưởng nghiên cứu khoa học của sinh viên Khoa Y.",
+    "viewResearch": "Khám phá nghiên cứu",
+    "viewAchievements": "Xem thành tựu Khoa Y",
+    "quickFeedEyebrow": "Cập nhật liên tục",
+    "quickFeedTitle": "Tin nhanh Khoa Y",
+    "quickFeedDescription": "Tổng hợp nhanh những thông báo học vụ, lịch luân khoa lâm sàng và sự kiện mới nhất.",
+    "officialChannel": "Kênh thông tin chính thức Khoa Y TTU",
+    "exploreSIT": "Khám phá toàn diện Khoa Y",
+    "exploreSITDescription": "Từ bản tin Khoa Y, bạn có thể tìm hiểu sâu hơn về chương trình Bác sĩ Y khoa, Điều dưỡng, Kỹ thuật Xét nghiệm Y học, hệ thống bệnh viện thực hành và đội ngũ Giáo sư.",
+    "exploreProgramsTitle": "Chương trình đào tạo",
+    "exploreProgramsDescription": "Tìm hiểu chi tiết ngành Bác sĩ Y khoa (MD), Điều dưỡng và Kỹ thuật Xét nghiệm Y học.",
+    "exploreResearchTitle": "Nghiên cứu & Công bố",
+    "exploreResearchDescription": "Khám phá các bài báo quốc tế trên Nature Medicine, Circulation và đề tài NAFOSTED.",
+    "exploreStudentsTitle": "Đời sống & Lâm sàng",
+    "exploreStudentsDescription": "Theo dõi hoạt động luân khoa bệnh viện, thực tập tại Mỹ và Lễ Khoác Áo Blouse Trắng.",
+    "exploreFacultyTitle": "Ban Giảng huấn",
+    "exploreFacultyDescription": "Gặp gỡ đội ngũ Giáo sư, Phó Giáo sư, Tiến sĩ, Bác sĩ đầu ngành từ Hoa Kỳ và Việt Nam.",
+    "exploreLink": "Khám phá ngay",
+    "newsList": [
+      {
+        "title": "Lễ Khoác Áo Blouse Trắng: Tân sinh viên Khoa Y tuyên đọc Lời thề Hải Thượng Lãn Ông & Hippocrates",
+        "date": "15 tháng 10, 2025",
+        "category": "Sự kiện Khoa Y",
+        "summary": "Buổi lễ thiêng liêng đánh dấu cột mốc tân sinh viên Khoa Y chính thức bước vào hành trình rèn luyện y thuật và y đức tại Trường Đại học Tân Tạo.",
+        "image": "/assets/som/about-som-whitecoat.jpg"
+      },
+      {
+        "title": "Sinh viên Khoa Y TTU hoàn thành khóa thực tập lâm sàng tại St. Mary Medical Center (Indiana, Hoa Kỳ)",
+        "date": "28 tháng 08, 2025",
+        "category": "Hợp tác Quốc tế",
+        "summary": "Đoàn sinh viên Y khoa xuất sắc đã có 6 tuần trải nghiệm môi trường lâm sàng chuẩn Mỹ dưới sự hướng dẫn trực tiếp của GS.TS.BS Thạch Nguyễn.",
+        "image": "/assets/som/hero-som-clinical.jpg"
+      },
+      {
+        "title": "Nhóm nghiên cứu Khoa Y TTU công bố công trình trên tạp chí quốc tế Nature Medicine và Frontiers",
+        "date": "12 tháng 02, 2026",
+        "category": "Nghiên cứu Khoa học",
+        "summary": "Khẳng định năng lực nghiên cứu y sinh và dịch tễ học lâm sàng tầm vóc quốc tế của đội ngũ giảng viên và sinh viên Khoa Y.",
+        "image": "/assets/som/lab-microbiology.jpg"
+      },
+      {
+        "title": "Ứng dụng bàn giải phẫu điện tử 3D Anatomage trong giảng dạy Giải phẫu học và Chẩn đoán hình ảnh",
+        "date": "05 tháng 01, 2026",
+        "category": "Đào tạo Y khoa",
+        "summary": "Sinh viên năm nhất và năm hai tương tác trực tiếp trên cơ thể người số hóa 3D độ phân giải cao, kết nối giải phẫu học với các ca bệnh lâm sàng.",
+        "image": "/assets/som/lab-anatomage-3d.jpg"
+      }
+    ],
+    "upcomingEvents": "Sự kiện Y khoa sắp tới"
+  },
+  "achievements": {
+    "badge": "Thành tựu & Kiểm định",
+    "title": "Dấu ấn tự hào của Khoa Y TTU",
+    "subtitle": "Những cột mốc kiểm định quốc tế, giải thưởng nghiên cứu và thành tích Bác sĩ Nội trú của thầy và trò Khoa Y.",
+    "viewAll": "Xem tất cả thành tựu",
+    "levels": {
+      "UNIVERSITY": "Cấp Trường",
+      "NATIONAL": "Cấp Quốc gia",
+      "INTERNATIONAL": "Cấp Quốc tế"
+    }
+  },
+  "footer": {
+    "quickLinks": "Liên kết nhanh",
+    "academicPrograms": "Ngành đào tạo",
+    "contact": "Thông tin liên hệ",
+    "links": [
+      "Giới thiệu Khoa Y",
+      "Chương trình Đào tạo",
+      "Cổng Tuyển sinh",
+      "Nghiên cứu & Công bố",
+      "Đời sống Sinh viên",
+      "Liên hệ",
+      "Hỏi & Đáp"
+    ],
+    "programs": [
+      "Bác sĩ Y khoa (Doctor of Medicine - MD)",
+      "Cử nhân Điều dưỡng (Nursing)",
+      "Cử nhân Kỹ thuật Xét nghiệm Y học",
+      "Lộ trình USMLE & Thực tập Hoa Kỳ"
+    ],
+    "address": "Đại lộ Đại học Tân Tạo, Tân Đức E.City, Đức Hòa, Long An",
+    "phone": "(+84) 272 376 9216",
+    "email": "medicine@ttu.edu.vn",
+    "mission": "Khoa Y Trường Đại học Tân Tạo đào tạo thế hệ thầy thuốc theo triết lý \"Y học Hoa Kỳ – Y đức Hải Thượng\" trên nền tảng Giáo dục Khai phóng.",
+    "copyright": "© 2026 Khoa Y – Trường Đại học Tân Tạo (TTU School of Medicine)."
+  },
+  "contact": {
+    "eyebrow": "LIÊN HỆ KHOA Y",
+    "title": "Luôn sẵn sàng đồng hành cùng bạn",
+    "lede": "Bạn cần tư vấn về tuyển sinh ngành Y khoa, Điều dưỡng, Kỹ thuật Xét nghiệm Y học hay lộ trình thi USMLE? Văn phòng Khoa Y phản hồi nhanh chóng trong giờ hành chính.",
+    "officeHoursLabel": "Giờ làm việc",
+    "officeHours": "Thứ Hai – Thứ Sáu, 08:00 – 17:00",
+    "addressLabel": "Địa chỉ Văn phòng Khoa Y",
+    "phoneLabel": "Điện thoại",
+    "emailLabel": "Email chính thức",
+    "mapCta": "Chỉ đường đến TTU",
+    "channelsTitle": "Kênh kết nối trực tiếp với Khoa Y",
+    "channelAdmissions": {
+      "title": "Tư vấn Tuyển sinh Khối Sức khỏe",
+      "desc": "Điều kiện xét tuyển, học phí, học bổng Quỹ ITA và lịch nhận hồ sơ.",
+      "cta": "Đến Cổng tuyển sinh TTU"
+    },
+    "channelAcademic": {
+      "title": "Học vụ, Lâm sàng & USMLE",
+      "desc": "Khung chương trình đào tạo, lịch luân khoa bệnh viện và hợp tác nghiên cứu.",
+      "cta": "Gửi email cho Khoa Y"
+    },
+    "channelFast": {
+      "title": "Trò chuyện trực tuyến",
+      "desc": "Nhắn tin qua Fanpage Khoa Y Đại học Tân Tạo để được giải đáp ngay trong ngày.",
+      "cta": "Nhắn Messenger"
+    },
+    "faqTeaser": "Tham khảo mục Câu hỏi thường gặp (FAQ) để xem nhanh thông tin về các ngành học của Khoa Y.",
+    "faqCta": "Xem Hỏi & Đáp"
+  },
+  "faq": {
+    "eyebrow": "HỎI & ĐÁP KHOA Y",
+    "title": "Câu hỏi thường gặp về Khoa Y TTU",
+    "lede": "Giải đáp những câu hỏi phổ biến nhất của thí sinh, phụ huynh và sinh viên về chương trình đào tạo, bệnh viện thực hành và chuẩn USMLE tại Khoa Y Trường Đại học Tân Tạo.",
+    "items": [
+      {
+        "q": "Khoa Y Trường Đại học Tân Tạo hiện đang đào tạo những ngành nào?",
+        "a": "Khoa Y đào tạo 03 ngành chính quy bậc Đại học thuộc khối Khoa học Sức khỏe: (1) Y khoa – Bác sĩ Đa khoa (Mã ngành 7720101, đào tạo 6 năm), (2) Điều dưỡng (Mã ngành 7720301, đào tạo 4 năm), và (3) Kỹ thuật Xét nghiệm Y học (Mã ngành 7720601, đào tạo 4 năm)."
+      },
+      {
+        "q": "Chương trình Bác sĩ Y khoa tại TTU tích hợp chuẩn USMLE Hoa Kỳ như thế nào?",
+        "a": "Khoa Y TTU đã được công nhận trong Danh bạ các Trường Y Thế giới (WDOMS) và ECFMG. Chương trình giảng dạy song ngữ tích hợp kiến thức của kỳ thi cấp phép hành nghề Y khoa Hoa Kỳ (USMLE Step 1 và Step 2 CK), giúp sinh viên vừa nhận bằng Bác sĩ Y khoa tại Việt Nam vừa đủ điều kiện dự thi USMLE để ứng tuyển Bác sĩ Nội trú tại Mỹ."
+      },
+      {
+        "q": "Sinh viên Khoa Y được thực hành lâm sàng tại những bệnh viện nào?",
+        "a": "Sinh viên thực hành ngay tại Bệnh viện Đại học Y Tân Tạo và đi luân khoa lâm sàng tại hơn 18 bệnh viện hạng I tuyến cuối ở TP.HCM như: Bệnh viện Chợ Rẫy, Bệnh viện Bình Dân, Bệnh viện Nhân Dân 115, Bệnh viện Nhi Đồng 1, Bệnh viện Nhi Đồng 2, Bệnh viện Từ Dũ, Bệnh viện Hùng Vương, Bệnh viện Quân Y 175, Bệnh viện Thống Nhất, Bệnh viện Nguyễn Tri Phương..."
+      },
+      {
+        "q": "Sinh viên có cơ hội đi thực tập lâm sàng ở nước ngoài không?",
+        "a": "Có. Hàng năm, các sinh viên có thành tích học tập và tiếng Anh tốt được tuyển chọn tham gia chương trình thực tập lâm sàng (Clinical Clerkship / Observership) tại các bệnh viện đối tác ở Hoa Kỳ (như St. Mary Medical Center tại Indiana, ChristianaCare tại Delaware) cũng như tại Hàn Quốc, Đài Loan."
+      },
+      {
+        "q": "Hệ thống phòng thí nghiệm tiền lâm sàng của Khoa Y có gì đặc biệt?",
+        "a": "Khoa Y sở hữu hệ thống Bàn giải phẫu điện tử 3D Anatomage hiện đại bậc nhất, phòng thực hành Giải phẫu học trên tiêu bản thực tế, Trung tâm Mô phỏng Lâm sàng (Skill Lab / OSCE) đầy đủ mô hình Nội – Ngoại – Sản – Nhi – Cấp cứu, và hệ thống phòng thí nghiệm Hóa sinh, Vi sinh – Ký sinh trùng, Sinh học phân tử."
+      },
+      {
+        "q": "Chính sách học bổng và hỗ trợ tài chính của Khoa Y như thế nào?",
+        "a": "Trường Đại học Tân Tạo và Quỹ ITA Vì Tương Lai dành nhiều suất học bổng toàn phần và bán phần cho tân sinh viên có điểm thi THPT cao, học sinh giỏi cấp Tỉnh/Quốc gia và sinh viên duy trì GPA xuất sắc qua từng năm học."
+      },
+      {
+        "q": "Sinh viên Khoa Y có được tham gia nghiên cứu khoa học từ sớm không?",
+        "a": "Có. Ngay từ năm 1–2, sinh viên được tham gia các nhóm nghiên cứu dưới sự hướng dẫn của GS.TS.BS Thạch Nguyễn và các giảng viên Khoa Y. Nhiều sinh viên đã trở thành đồng tác giả của các bài báo đăng trên tạp chí quốc tế ISI/Scopus (như Nature Medicine, Circulation, Frontiers) và báo cáo tại hội nghị tim mạch Hoa Kỳ."
+      },
+      {
+        "q": "Làm thế nào để đăng ký xét tuyển hoặc đặt lịch tham quan Khoa Y?",
+        "a": "Thí sinh và phụ huynh có thể đăng ký trực tuyến qua Cổng tuyển sinh TTU (tuyensinh.ttu.edu.vn), gửi email về medicine@ttu.edu.vn hoặc gọi hotline (+84) 272 376 9216 để được tư vấn hồ sơ và đăng ký trải nghiệm thực tế tại Khoa Y."
+      }
+    ],
+    "contactCta": "Vẫn còn thắc mắc? Liên hệ trực tiếp với Khoa Y"
+  }
+}

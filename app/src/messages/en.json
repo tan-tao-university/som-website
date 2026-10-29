@@ -1,0 +1,1299 @@
+{
+  "metadata": {
+    "title": "School of Medicine - Tan Tao University (TTU SOM)",
+    "description": "Tan Tao University School of Medicine (TTU SOM) offers USMLE-integrated Doctor of Medicine (MD), Bachelor of Nursing, and Medical Laboratory Technology programs guided by the philosophy of American Medicine – Hai Thuong Medical Ethics.",
+    "keywords": "School of Medicine Tan Tao University, TTU SOM, Doctor of Medicine Vietnam, USMLE, Nursing, Medical Laboratory Technology, Prof Thach Nguyen, WDOMS ECFMG"
+  },
+  "header": {
+    "phone": "(+84) 272 376 9216",
+    "email": "medicine@ttu.edu.vn",
+    "slogan": "American Medicine – Hai Thuong Medical Ethics",
+    "university": "Tan Tao University",
+    "faculty": "School of Medicine",
+    "navigation": {
+      "about": "About SOM",
+      "programs": "Programs",
+      "students": "Student Life",
+      "research": "Research",
+      "news": "News & Events",
+      "faculty": "Faculty",
+      "researchOverview": "Research Overview",
+      "scientificProjects": "Research Projects",
+      "scientificPublications": "International Publications",
+      "studentsOverview": "Medical Student Life",
+      "studentsAdmissions": "Admissions Portal",
+      "studentsHandbook": "Student Handbook",
+      "studentsActivities": "Activities & Ethics",
+      "studentsInternships": "Clinical Rotations & Residency",
+      "studentsAlumni": "Alumni & Physicians"
+    },
+    "contact": "Admissions Hotline",
+    "close": "Close",
+    "exploreSit": "Explore TTU SOM",
+    "quickLinks": "Quick Links",
+    "about": "About SOM",
+    "news": "News",
+    "research": "Research",
+    "students": "Students",
+    "contactButton": "Contact",
+    "contactLink": "Contact",
+    "faqLink": "FAQ",
+    "messengerLink": "Message us",
+    "programsDescription": "Discover our US-standard Doctor of Medicine (MD), Nursing, and Medical Laboratory Technology programs.",
+    "studentsDescription": "Explore medical student life, the White Coat Ceremony, clinical clerkships, and scholarships.",
+    "researchDescription": "Explore ISI/Scopus publications, NAFOSTED biomedical grants, and global cardiology collaborations.",
+    "exploreDescription": "Discover the academic, pre-clinical, and hospital training ecosystem at TTU School of Medicine.",
+    "programsBrowseDescription": "Browse all undergraduate and clinical training pathways in Health Sciences.",
+    "language": {
+      "vi": "Tiếng Việt",
+      "en": "English"
+    },
+    "search": "Search",
+    "searchPlaceholder": "Search programs, courses, faculty...",
+    "menu": "Menu",
+    "noResults": "No results found.",
+    "recentSearch": "Recent Searches",
+    "courseSchedule": "Academic & Clinical Schedule",
+    "studentDashboard": "Student Portal",
+    "quickActions": "Quick Actions",
+    "searchPosts": "Search articles",
+    "academicPrograms": "Academic Programs",
+    "curriculums": "Curriculums",
+    "footerNavigate": "to navigate",
+    "footerSelect": "to select",
+    "footerClose": "to close"
+  },
+  "textRibbon": {
+    "messages": [
+      "International collaboration published in Nature Medicine (2026) featuring TTU School of Medicine researchers",
+      "TTU SOM graduates match into Medical Residency programs in the United States and Ho Chi Minh City",
+      "Listed in WDOMS & recognized by ECFMG – TTU medical students are eligible for USMLE Step 1, Step 2 CK & US Residency",
+      "International Clinical Clerkships at St. Mary Medical Center (Indiana) & ChristianaCare (Delaware, USA)",
+      "Annual White Coat Ceremony honoring the Hippocratic Oath & Hai Thuong Lan Ong's Nine Medical Precepts",
+      "Clinical rotations across 18+ premier teaching hospitals in Ho Chi Minh City & Tan Tao University Hospital"
+    ]
+  },
+  "hero": {
+    "welcome": "Welcome to TTU School of Medicine",
+    "title": "Educating Future",
+    "dynamicTexts": [
+      "Global Physicians (MD)",
+      "USMLE-Ready Clinicians",
+      "Physician-Scientists",
+      "Compassionate Nurses",
+      "Medical Lab Specialists",
+      "Ethical Healthcare Leaders"
+    ],
+    "subtitle": "Tan Tao University's School of Medicine pioneers bilingual, USMLE-integrated medical education grounded in the Liberal Arts philosophy and our guiding ethos: \"American Medicine – Hai Thuong Medical Ethics\".",
+    "explore": "Explore Programs",
+    "watchVideo": "Discover TTU SOM",
+    "imageEyebrow": "Clinical & Academic Excellence",
+    "imageTitle": "American Medicine – Hai Thuong Medical Ethics.",
+    "imageDescription": "Integrating USMLE-aligned basic sciences, 3D Anatomage virtual dissection, and bedside training at top US and Vietnamese hospitals."
+  },
+  "stats": {
+    "title": "Academic & Clinical Milestones",
+    "subtitle": "Official highlights from Tan Tao University School of Medicine",
+    "items": [
+      {
+        "number": "2013",
+        "label": "School of Medicine Founded"
+      },
+      {
+        "number": "03",
+        "label": "Health Sciences Degree Programs"
+      },
+      {
+        "number": "18+",
+        "label": "Affiliated Hospitals in VN & USA"
+      },
+      {
+        "number": "100%",
+        "label": "WDOMS & ECFMG Recognized"
+      }
+    ]
+  },
+  "programs": {
+    "badge": "Academic Programs",
+    "title": "Health Sciences Programs",
+    "titleHighlight": "International Standards",
+    "subtitle": "Combining a USMLE-aligned curriculum, state-of-the-art simulation laboratories, and intensive rotations at tier-1 teaching hospitals.",
+    "programsSubtitle": "From Doctor of Medicine (MD) to Bachelor of Nursing and Medical Laboratory Technology, each pathway prepares graduates for clinical excellence and global healthcare careers.",
+    "viewAll": "View All Programs",
+    "viewDetails": "View Details",
+    "relatedPrograms": "Related Programs",
+    "exploreOtherPrograms": "Explore Other Programs",
+    "exploreOtherProgramsDescription": "Browse other Health Sciences programs at TTU School of Medicine",
+    "undergraduate": "Medical & Undergraduate",
+    "graduate": "USMLE & Residency Track",
+    "whyChoose": "Why Choose TTU School of Medicine?",
+    "features": [
+      {
+        "title": "USMLE-Integrated Medical Curriculum",
+        "description": "Our 6-year MD curriculum integrates United States Medical Licensing Examination (USMLE Step 1 & Step 2 CK) preparation and is fully recognized by WDOMS and ECFMG."
+      },
+      {
+        "title": "Distinguished US & Vietnamese Faculty",
+        "description": "Led by Dean Prof. Thach Nguyen, MD, FACC, FSCAI alongside People's Teacher Prof. Le Hoang Ninh, Assoc. Prof. Pham Nguyen Vinh, Prof. Le Quang Nghia, and Prof. Le Van Cuong."
+      },
+      {
+        "title": "US Clerkships & 18+ Teaching Hospitals",
+        "description": "Students complete clinical rotations at Cho Ray, Binh Dan, People's 115, Children's Hospital 1 & 2, Tu Du, Hung Vuong, and overseas clerkships in Indiana & Delaware, USA."
+      }
+    ],
+    "financialSupport": "ITA For The Future Scholarships and USMLE / International Residency Mentorship",
+    "details": {
+      "shared": {
+        "keyDetailsTitle": "Key Details",
+        "programCard": {
+          "codeLabel": "Program Code",
+          "featuresLabel": "Core Highlights",
+          "ctaLabel": "View Curriculum"
+        }
+      },
+      "undergraduate": {
+        "hero": {
+          "breadcrumbs": [
+            "Home",
+            "Programs",
+            "Medical & Undergraduate"
+          ],
+          "title": "Medical & Health Sciences Programs",
+          "highlight": "Global Clinical Competence",
+          "subtitle": "Educating Physicians (MD), Nurses, and Medical Laboratory Scientists on a foundation of Liberal Arts education and Hai Thuong Medical Ethics.",
+          "ctaPrimary": "Apply for Admission",
+          "ctaSecondary": "Explore Majors",
+          "image": "/assets/som/program-medicine-md.jpg",
+          "alt": "TTU School of Medicine students in clinical training"
+        },
+        "keyDetails": [
+          {
+            "label": "Location",
+            "value": "Tan Tao University",
+            "description": "Tan Tao University Avenue, Tan Duc E.City, Duc Hoa, Long An"
+          },
+          {
+            "label": "Duration",
+            "value": "4 – 6 Years",
+            "description": "6 years for Doctor of Medicine (209 credits), 4 years for Nursing & Medical Lab Technology (135 credits)"
+          },
+          {
+            "label": "Attendance",
+            "value": "Full-time",
+            "description": "Lectures, 3D Anatomy Labs, OSCE Simulation & Hospital Rotations"
+          },
+          {
+            "label": "Program Codes",
+            "value": "7720101 / 7720301 / 7720601",
+            "description": "National & Direct Admissions per MOET Health Sciences standards"
+          }
+        ],
+        "overview": {
+          "badge": "Training Pathway",
+          "title": "The Journey to Becoming a Compassionate Clinician",
+          "description": "Seamlessly bridging biomedical sciences, pre-clinical simulation training, and hands-on bedside rotations at major referral hospitals.",
+          "points": [
+            "Liberal Arts core, Basic Sciences, and intensive Medical English training in Year 1",
+            "Organ-system integrated Pre-clinical Medicine aligned with USMLE Step 1 & 3D Anatomage dissection",
+            "Objective Structured Clinical Examination (OSCE) simulation & practice at Tan Tao University Hospital",
+            "Internal Medicine, Surgery, OB/GYN, and Pediatrics clerkships at 18+ HCMC hospitals & US partner centers"
+          ]
+        }
+      },
+      "graduate": {
+        "hero": {
+          "breadcrumbs": [
+            "Home",
+            "Programs",
+            "USMLE & Residency Pathway"
+          ],
+          "title": "USMLE & Postgraduate Pathways",
+          "highlight": "Global Medical Mobility",
+          "subtitle": "Comprehensive preparation for the United States Medical Licensing Examination (USMLE), Vietnamese Residency exams, and international biomedical research.",
+          "ctaPrimary": "Explore USMLE Track",
+          "ctaSecondary": "Speak with Faculty",
+          "image": "/assets/som/hero-som-clinical.jpg",
+          "alt": "TTU School of Medicine faculty and students discussing clinical cases"
+        },
+        "keyDetails": [
+          {
+            "label": "Accreditation",
+            "value": "WDOMS & ECFMG",
+            "description": "Eligible for USMLE exams and NRMP Residency Match in the United States"
+          },
+          {
+            "label": "Overseas Rotations",
+            "value": "4 – 8 Weeks",
+            "description": "Clinical clerkships in Indiana, Delaware, and partner US hospitals"
+          },
+          {
+            "label": "Research",
+            "value": "ISI / Scopus",
+            "description": "Co-authoring Q1 publications and presenting at AHA, ACC, and SCAI"
+          },
+          {
+            "label": "Postgraduate",
+            "value": "Residency & Fellowship",
+            "description": "Dedicated mentorship for domestic and international residency placement"
+          }
+        ],
+        "overview": {
+          "badge": "Postgraduate Trajectory",
+          "title": "Expanding Horizons in Global Medicine",
+          "description": "TTU School of Medicine mentors learners from their first day of medical school through international licensing exams and residency matching.",
+          "points": [
+            "Dedicated USMLE Step 1 and Step 2 CK review sessions led by US professors",
+            "Hands-on clinical clerkships and observerships at US teaching hospitals",
+            "Participation in Cardiovascular Flow Dynamics & Biomedical Research cohorts",
+            "Direct mentorship from TTU SOM alumni currently serving as Resident Physicians in the US and Vietnam"
+          ]
+        }
+      }
+    },
+    "programPage": {
+      "shared": {
+        "breadcrumbs": [
+          "Academic Programs"
+        ],
+        "actions": [
+          {
+            "label": "Download Prospectus",
+            "description": "Get the latest TTU School of Medicine admissions guide"
+          },
+          {
+            "label": "Book a Campus Tour",
+            "description": "Experience the 3D Anatomage Lab and meet our Professors"
+          }
+        ],
+        "applyLabel": "Apply Now",
+        "overview": {
+          "badge": "Program Overview",
+          "title": "Rigorous Science Meets Compassionate Care",
+          "description": "TTU School of Medicine unites liberal arts critical thinking with evidence-based medicine to cultivate skilled, ethical clinicians.",
+          "points": [
+            "Bilingual English–Vietnamese instruction using gold-standard US medical textbooks",
+            "Early pre-clinical simulation and hands-on practice at Tan Tao University Hospital",
+            "Rotations across 18+ premier hospitals in Ho Chi Minh City plus US clinical clerkships",
+            "Individualized academic advising and undergraduate research mentorship from Year 1"
+          ]
+        },
+        "curriculum": {
+          "badge": "Curriculum Highlights",
+          "title": "What You Will Study",
+          "description": "Courses progress systematically from foundational sciences and organ-system blocks to intensive hospital clerkships.",
+          "placeholder": "Core curriculum modules"
+        },
+        "career": {
+          "badge": "Career Pathways",
+          "title": "Where This Degree Takes You",
+          "points": [
+            "Attending Physician or Resident Physician at major public and international hospitals",
+            "USMLE certification and Medical Residency (NRMP Match) in the United States",
+            "Clinical Nurse Specialist, Nursing Manager, or Chief Medical Laboratory Technologist",
+            "Biomedical Scientist, Clinical Trial Investigator, or Medical University Lecturer"
+          ]
+        }
+      },
+      "undergraduate": {
+        "heroTagline": "Training competent, compassionate healthcare professionals for Vietnam and the world.",
+        "heroImage": "/assets/som/program-medicine-md.jpg",
+        "keyFacts": [
+          {
+            "label": "Program Code",
+            "value": "{{code}}"
+          },
+          {
+            "label": "Entry Requirements",
+            "value": "High school diploma & MOET Health Sciences threshold"
+          },
+          {
+            "label": "Duration",
+            "value": "4 – 6 Years"
+          },
+          {
+            "label": "School",
+            "value": "School of Medicine – Tan Tao University"
+          }
+        ]
+      },
+      "graduate": {
+        "heroTagline": "Advancing clinical mastery and translational medical research.",
+        "heroImage": "/assets/som/hero-som-clinical.jpg",
+        "keyFacts": [
+          {
+            "label": "Track Code",
+            "value": "{{code}}"
+          },
+          {
+            "label": "Eligibility",
+            "value": "Medical students & MD graduates pursuing USMLE / Residency"
+          },
+          {
+            "label": "Duration",
+            "value": "Integrated Pathway"
+          },
+          {
+            "label": "School",
+            "value": "School of Medicine – Tan Tao University"
+          }
+        ]
+      }
+    },
+    "programSlugPage": {
+      "shared": {
+        "hero": {
+          "badge": "School of Medicine Programs",
+          "fallbackImage": "/assets/som/program-medicine-md.jpg",
+          "inquireLabel": "Inquire",
+          "applyLabel": "Apply"
+        },
+        "meta": {
+          "schoolLabel": "School",
+          "divisionLabel": "Division",
+          "levelLabel": "Degree"
+        },
+        "overview": {
+          "title": "Program Highlights",
+          "description": "Explore the curriculum structure, clinical competency milestones, and hospital training network at TTU School of Medicine.",
+          "sections": [
+            {
+              "title": "Academic Distinctions",
+              "points": [
+                "Dual alignment with Vietnam Ministry of Health standards and USMLE competencies",
+                "Bilingual instruction featuring international medical literature and case discussions",
+                "Hands-on training with the 3D Anatomage Table, cadaver lab, and OSCE simulation center",
+                "Direct mentorship from leading Professors, Associate Professors, and Specialist Physicians"
+              ]
+            },
+            {
+              "title": "Graduate Competencies",
+              "points": [
+                "Perform comprehensive clinical examinations, diagnostics, and evidence-based treatments",
+                "Communicate effectively in English and Vietnamese across diverse healthcare settings",
+                "Design and publish clinical and biomedical research in peer-reviewed international journals",
+                "Uphold the highest standards of the Hippocratic Oath and Hai Thuong Medical Ethics"
+              ]
+            }
+          ]
+        },
+        "curriculum": {
+          "title": "Curriculum Structure",
+          "description": "An integrated progression from Liberal Arts and Organ-System Basic Sciences to Clinical Hospital Clerkships.",
+          "placeholder": "Detailed syllabus loading"
+        },
+        "ctaBanner": {
+          "title": "Ready to Wear the White Coat?",
+          "description": "Connect with the TTU School of Medicine admissions office to learn about entry requirements, scholarships, and USMLE preparation.",
+          "primary": "Contact Admissions",
+          "secondary": "View Admissions Guide"
+        },
+        "accordion": {
+          "title": "PART I. GENERAL PROGRAM INFORMATION",
+          "items": [
+            {
+              "title": "1. Introduction to the Training Program",
+              "content": [
+                "The academic programs at Tan Tao University School of Medicine are modeled on US medical education standards while fulfilling all regulations of the Vietnam Ministry of Education & Training and Ministry of Health.",
+                "Students build a rigorous foundation in basic sciences, pre-clinical skills, and bedside clinical medicine across 18+ tier-1 teaching hospitals in Ho Chi Minh City and Tan Tao University Hospital.",
+                "Emphasis is placed on Medical English, scientific inquiry, and comprehensive preparation for the United States Medical Licensing Examination (USMLE)."
+              ],
+              "defaultOpen": true
+            },
+            {
+              "title": "2. International Accreditation & Recognition",
+              "content": [
+                "Tan Tao University School of Medicine is listed in the World Directory of Medical Schools (WDOMS) with ECFMG sponsorship notes, enabling students and graduates to sit for USMLE Steps and apply for US Residency programs."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "3. Mission – Vision – Core Values – Educational Philosophy",
+              "content": [
+                "Guided by the motto 'American Medicine – Hai Thuong Medical Ethics' and Liberal Arts education, we nurture healthcare professionals who combine modern scientific mastery with deep human compassion."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "4. Program Objectives",
+              "content": [
+                "Educate Physicians (MD), Bachelor of Nursing graduates, and Medical Laboratory Technologists who possess strong clinical skills, professional ethics, English proficiency, and global mobility."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "5. Program Learning Outcomes (PLO)",
+              "content": [
+                "Graduates meet national Ministry of Health competency standards, demonstrate professional English proficiency (IELTS 6.0–6.5+ equivalent), and engage in lifelong learning and clinical research."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "6. Admission Requirements",
+              "content": [
+                "Open to domestic and international high school graduates meeting the Ministry of Education & Training's quality assurance threshold for Health Sciences programs."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "7. Credit Load & Duration",
+              "content": [
+                "Doctor of Medicine (MD): 209 credits (6 years). Bachelor of Nursing: 135 credits (4 years). Bachelor of Medical Laboratory Technology: 135 credits (4 years)."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "8. Curriculum Architecture",
+              "content": [
+                "Comprises Liberal Arts & Medical English, Basic Sciences, Organ-System Pre-clinical Modules, Clinical Skills Lab (OSCE), Hospital Clerkships, and Graduation Thesis/Comprehensive Boards."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "9. Teaching & Learning Methodology",
+              "content": [
+                "Utilizes Problem-Based Learning (PBL), Case-Based Learning (CBL), Bedside Teaching, Morning Reports, Journal Clubs, and high-fidelity clinical simulation."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "10. Student Assessment",
+              "content": [
+                "Combines NBME/USMLE-style multiple-choice examinations, Objective Structured Clinical Examinations (OSCE), clinical logbooks, and oral case defenses."
+              ],
+              "defaultOpen": false
+            }
+          ]
+        },
+        "accordionPart2": {
+          "title": "PART II. ACADEMIC & CLINICAL ROTATION GUIDELINES",
+          "items": [
+            {
+              "title": "1. Liberal Arts & Medical English Foundation",
+              "content": [
+                "Develops critical thinking, medical ethics, medical psychology, and fluency in reading international medical literature and communicating with patients in English."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "2. Pre-clinical Laboratories & 3D Anatomage Simulation",
+              "content": [
+                "Students master anatomy on the 3D Anatomage virtual dissection table and wet specimens, and practice clinical procedures in the OSCE Simulation Center prior to hospital rotations."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "3. Hospital Clerkship Regulations",
+              "content": [
+                "Clinical rotations take place at Tan Tao University Hospital and 18+ affiliated tier-1 hospitals in Ho Chi Minh City under the supervision of attending faculty."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "4. Graduation Requirements",
+              "content": [
+                "Completion of all required credits, fulfillment of English proficiency standards, and passing the comprehensive theoretical-clinical graduation examination or thesis defense."
+              ],
+              "defaultOpen": false
+            },
+            {
+              "title": "5. International Clinical Clerkships (USA & Asia)",
+              "content": [
+                "Outstanding students are selected for 4-to-8-week clinical clerkships at partner teaching hospitals in the United States, South Korea, and Taiwan."
+              ],
+              "defaultOpen": false
+            }
+          ]
+        }
+      },
+      "undergraduate": {
+        "hero": {
+          "badge": "Medical & Undergraduate Programs",
+          "fallbackImage": "/assets/som/program-medicine-md.jpg"
+        },
+        "meta": {
+          "school": "School of Medicine",
+          "division": "Health Sciences Division",
+          "level": "Doctor of Medicine / Bachelor"
+        }
+      },
+      "graduate": {
+        "hero": {
+          "badge": "USMLE & Residency Track",
+          "fallbackImage": "/assets/som/hero-som-clinical.jpg"
+        },
+        "meta": {
+          "school": "School of Medicine",
+          "division": "International Medical Education",
+          "level": "USMLE / Residency"
+        }
+      }
+    },
+    "programs": {
+      "undergraduate": {
+        "computerScience": {
+          "title": "Doctor of Medicine (General Medicine - MD)",
+          "programs": [
+            {
+              "title": "Doctor of Medicine (MD – USMLE Integrated)",
+              "code": "7720101",
+              "description": "A 6-year (209-credit) bilingual program integrating Vietnam Ministry of Health standards with USMLE Step 1 & Step 2 CK preparation and clinical rotations.",
+              "features": "USMLE Step 1 & 2 CK, 3D Anatomage Anatomy, 18+ HCMC Teaching Hospitals, US Clinical Clerkships"
+            }
+          ]
+        },
+        "dataScience": {
+          "title": "Bachelor of Nursing",
+          "programs": [
+            {
+              "title": "Bachelor of Nursing (International Standard)",
+              "code": "7720301",
+              "description": "A 4-year (135-credit) program training compassionate, evidence-based nurses skilled in critical care, patient safety, and NCLEX-RN oriented competencies.",
+              "features": "Holistic Patient Care, OSCE Clinical Simulation, Infection Control, International Nursing English"
+            }
+          ]
+        },
+        "artificialIntelligence": {
+          "title": "Bachelor of Medical Laboratory Technology",
+          "programs": [
+            {
+              "title": "Bachelor of Medical Laboratory Technology",
+              "code": "7720601",
+              "description": "A 4-year (135-credit) program specializing in Hematology, Clinical Biochemistry, Microbiology, Molecular Diagnostics, and ISO 15189 Laboratory Quality Management.",
+              "features": "Hematology & Blood Banking, Clinical Biochemistry, PCR Molecular Diagnostics, ISO 15189 Quality Assurance"
+            }
+          ]
+        }
+      },
+      "graduate": {
+        "computerScience": {
+          "title": "USMLE & US Clinical Clerkship Track",
+          "programs": [
+            {
+              "title": "USMLE Preparation & US Clinical Clerkship",
+              "code": "SOM-USMLE",
+              "description": "Intensive mentorship for USMLE Step 1, Step 2 CK, and hands-on clinical rotations at partner medical centers in Indiana and Delaware, USA.",
+              "features": "USMLE Step 1, USMLE Step 2 CK, US Clinical Clerkships, Cardiovascular Research Fellowship"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "About TTU School of Medicine",
+    "subtitle": "School of Medicine – Tan Tao University (TTU SOM)",
+    "description": "Founded to educate a new generation of internationally competent physicians, nurses, and medical laboratory scientists, Tan Tao University School of Medicine blends US medical education excellence with the timeless compassion of Hai Thuong Lan Ong.",
+    "heroImageAlt": "White Coat Ceremony at Tan Tao University School of Medicine",
+    "heroMediaEyebrow": "American Medicine – Hai Thuong Medical Ethics",
+    "heroMediaTitle": "Shaping compassionate clinicians and global physician-scientists",
+    "heroMediaDescription": "Doctor of Medicine (MD) · Bachelor of Nursing · Medical Laboratory Technology · USMLE",
+    "whatWeDo": "OUR MISSION",
+    "ourApproach": "MEDICAL EDUCATION APPROACH",
+    "howWeDoIt": "HOSPITAL – UNIVERSITY MODEL",
+    "howWeEducate": "HOW WE EDUCATE",
+    "howWeOperate": "ACADEMIC & CLINICAL ECOSYSTEM",
+    "ourPhilosophy": "EDUCATIONAL PHILOSOPHY",
+    "liberalArtsTitle": "Liberal Arts in Medicine",
+    "liberalArtsDescription": "A liberal arts foundation cultivates critical clinical reasoning, ethical judgment, empathy for patients, and interdisciplinary problem-solving.",
+    "lifelongLearningTitle": "Lifelong Learning & Evidence-Based Medicine",
+    "lifelongLearningDescription": "Medical science evolves constantly. Our students develop habits of self-directed inquiry, keeping pace with global literature and practicing Evidence-Based Medicine.",
+    "qualityAssuranceTitle": "Global Recognition (WDOMS & ECFMG)",
+    "qualityAssuranceDescription": "Our bilingual, USMLE-integrated curriculum is listed in WDOMS and recognized by ECFMG, empowering graduates to pursue residency and practice worldwide.",
+    "founded": "Established",
+    "facultyLevel": "Professors, Assoc. Professors, PhDs & Specialist Physicians",
+    "programs": "Undergraduate Programs",
+    "visionYear": "Affiliated Teaching Hospitals",
+    "organizationalStructureTitle": "Organizational Structure",
+    "facultyExcellenceTitle": "Distinguished Faculty Leadership",
+    "technologyIntegrationTitle": "3D Anatomage & Simulation Technology",
+    "technologyIntegrationDescription": "Integrating the 3D Anatomage virtual dissection table, OSCE clinical simulation suites, and AI-assisted cardiovascular imaging into daily instruction.",
+    "transparentEnvironmentTitle": "Culture of Integrity & Medical Ethics",
+    "transparentEnvironmentDescription": "A rigorous, humane academic environment dedicated to scientific integrity and patient-first care inspired by Hippocrates and Hai Thuong Lan Ong.",
+    "readyToStart": "Ready to begin your medical journey with us?",
+    "joinEcosystem": "Join the community of future physicians and healthcare leaders at TTU School of Medicine.",
+    "explorePrograms": "Explore Programs",
+    "contactUs": "Contact Admissions",
+    "history": "Our History & Heritage",
+    "historyText": "Tan Tao University School of Medicine was established with the vision of bringing American-standard medical education to Vietnam. Under the leadership of Dean Prof. Thach Nguyen, MD, FACC, FSCAI and eminent Vietnamese medical educators including People's Teacher Prof. Le Hoang Ninh, Assoc. Prof. Pham Nguyen Vinh, Prof. Le Quang Nghia, and Prof. Le Van Cuong, TTU SOM has graduated cohorts of physicians, nurses, and laboratory specialists serving across Vietnam and the United States.",
+    "faculty": "Faculty Excellence",
+    "facultyText": "Our faculty comprises internationally recognized Professors, Associate Professors, PhDs, and Specialist Level II Physicians from the United States and Ho Chi Minh City's premier teaching hospitals who mentor students in both lecture halls and hospital wards.",
+    "mission": "Our Mission",
+    "missionText": "To educate high-quality healthcare professionals (Physicians, Nurses, and Medical Laboratory Technologists) who possess international-standard clinical competence, unwavering medical ethics, English fluency, and scientific research capability to advance public health.",
+    "vision": "Our Vision",
+    "visionText": "To become a premier center of medical education and translational research in Vietnam and Southeast Asia modeled on US medical schools, where graduates excel in the USMLE and thrive in global healthcare institutions.",
+    "values": "Core Values",
+    "valuesText": "Seven core values shaping the character and competence of every Tan Tao University healthcare professional.",
+    "valuesList": [
+      "Compassion & Medical Ethics",
+      "Scientific Integrity",
+      "Clinical Excellence",
+      "Global Collaboration",
+      "Liberal Arts Inquiry",
+      "Community Service",
+      "Lifelong Learning"
+    ],
+    "philosophy": "Medical Education Philosophy",
+    "philosophyText": "American Medicine – Hai Thuong Medical Ethics",
+    "philosophyDetails": {
+      "liberalArts": {
+        "title": "American Medicine",
+        "description": "Mastering modern evidence-based medicine, standardized clinical skills aligned with the USMLE, and rigorous international biomedical research."
+      },
+      "lifelongLearning": {
+        "title": "Hai Thuong Medical Ethics",
+        "description": "Embodying the teachings of Great Physician Hai Thuong Lan Ong Le Huu Trac and the Hippocratic Oath: treating every patient's suffering as one's own."
+      }
+    },
+    "organization": "Organizational Structure",
+    "organizationText": "The School comprises the Office of the Dean, Science & Training Council, Faculty Office, Division of Basic Medical Sciences, Division of Clinical Medicine (Internal Medicine, Surgery, OB/GYN, Pediatrics), Department of Nursing, Department of Medical Laboratory Technology, and the Affiliated Hospital Network.",
+    "qualityPolicy": "Quality Assurance Commitment",
+    "qualityPolicyText": "TTU SOM is committed to competency-based medical education, objective standardized assessments (NBME/OSCE), extensive bedside clinical hours, and international mobility.",
+    "dean": "Dean of the School of Medicine",
+    "deanName": "Prof. Thach Nguyen, MD, FACC, FSCAI",
+    "contact": "Contact Information",
+    "phone": "(+84) 272 376 9216",
+    "email": "medicine@ttu.edu.vn"
+  },
+  "students": {
+    "badge": "Medical Student Life",
+    "title": "Student Life at TTU SOM",
+    "subtitle": "Mastering Clinical Art – Cultivating Medical Ethics – Embracing Global Horizons",
+    "description": "At TTU School of Medicine, students are supported from pre-clinical simulation labs and hospital ward rounds to USMLE study groups and rural medical charity missions.",
+    "studentSupport": "Medical Student Support Services",
+    "supportServices": [
+      {
+        "title": "Academic & USMLE Advising",
+        "description": "One-on-one mentorship from professors and resident alumni to map out study plans and prepare for USMLE Step 1 and Step 2 CK."
+      },
+      {
+        "title": "Clinical Rotation & US Clerkship Coordination",
+        "description": "Dedicated support for scheduling rotations across 18+ HCMC hospitals and preparing applications for US clinical clerkships."
+      },
+      {
+        "title": "Student Medical Research Cohorts",
+        "description": "Hands-on training in biostatistics, manuscript writing, and presenting abstracts at international cardiology and biomedical congresses."
+      },
+      {
+        "title": "Academic Clubs & Medical Outreach",
+        "description": "Medical English Club, Emergency Skills Club, and regular community health screenings providing free care to underserved populations."
+      }
+    ],
+    "achievements": "Student & Alumni Milestones",
+    "achievementStats": [
+      {
+        "number": "2026",
+        "label": "Co-authored publications in Nature Medicine & Circulation (AHA)"
+      },
+      {
+        "number": "2025",
+        "label": "TTU MD graduates match into Residency in the USA & UMP Ho Chi Minh City"
+      },
+      {
+        "number": "2025",
+        "label": "Medical students complete clinical clerkships in Indiana, USA"
+      },
+      {
+        "number": "18+",
+        "label": "Tier-1 HCMC teaching hospitals hosting TTU SOM clinical rotations"
+      }
+    ],
+    "testimonials": "Voices from TTU School of Medicine",
+    "testimonialsList": [
+      {
+        "name": "Dr. Nguyen Quoc Ai, MD",
+        "program": "Internal Medicine Resident (USA) – TTU SOM Alumnus",
+        "quote": "The bilingual USMLE-integrated curriculum and my clinical rotation in the United States under Prof. Thach Nguyen's mentorship gave me the foundation to match into a US Residency program."
+      },
+      {
+        "name": "Dr. Tran Minh Khoa, MD",
+        "program": "Surgical Resident – TTU SOM Alumnus",
+        "quote": "Intensive clinical rotations at Cho Ray, Binh Dan, and Children's Hospital combined with rigorous anatomy training at TTU prepared me for the demands of surgical residency."
+      }
+    ],
+    "ctaTitle": "Join the TTU School of Medicine Community",
+    "ctaDescription": "Begin your journey toward clinical excellence and compassionate service at Tan Tao University.",
+    "ctaPrimary": "Apply Now",
+    "ctaSecondary": "View Student Handbook"
+  },
+  "studentsActivities": {
+    "badge": "Activities & Medical Ethics",
+    "title": "Holistic Growth Beyond the Lecture Hall",
+    "subtitle": "Where clinical inquiry meets empathy, teamwork, and community service.",
+    "description": "From the solemn White Coat Ceremony to rural health screenings and international medical conferences, TTU SOM students lead with compassion and professionalism.",
+    "highlights": [
+      {
+        "title": "White Coat Ceremony",
+        "description": "A cherished tradition where incoming medical students receive their white coats from senior professors and recite the Physician's Oath."
+      },
+      {
+        "title": "Community Health Outreach",
+        "description": "Student-led missions providing cardiovascular screening, blood testing, and free medications to underserved communities."
+      },
+      {
+        "title": "USMLE & Journal Club Societies",
+        "description": "Weekly English-language Morning Reports, clinical case discussions, and NEJM/Lancet journal clubs with international faculty."
+      }
+    ],
+    "programs": [
+      {
+        "title": "Academic & Clinical Societies",
+        "summary": "Sharpening diagnostic reasoning and international medical communication.",
+        "details": [
+          "Weekly Journal Club analyzing landmark trials in NEJM, Lancet, JAMA, and Nature Medicine",
+          "Annual Anatomy, Physiology, and OSCE Clinical Skills Olympiads",
+          "USMLE preparation workshops and live Q&A sessions with US Resident Physicians"
+        ]
+      },
+      {
+        "title": "Compassionate Service Initiatives",
+        "summary": "Living the spirit of Hai Thuong Medical Ethics in every community interaction.",
+        "details": [
+          "Biannual 'White Coat Red Drop' voluntary blood donation drives",
+          "Public health education campaigns on preventive cardiology and infectious diseases",
+          "Patient companionship and palliative care volunteer teams at partner hospitals"
+        ]
+      }
+    ],
+    "storiesTitle": "Recent Activity Highlights",
+    "stories": [
+      {
+        "title": "Annual White Coat Ceremony",
+        "description": "New medical, nursing, and lab technology students pledge fidelity to the Hippocratic Oath and Hai Thuong Precepts."
+      },
+      {
+        "title": "Indiana USA Clinical Clerkship",
+        "description": "TTU medical students participate in ward rounds and cardiology conferences at St. Mary Medical Center."
+      },
+      {
+        "title": "Young Medical Researchers Symposium",
+        "description": "Undergraduates present original research in cardiology, nursing care, and molecular diagnostics in English."
+      }
+    ],
+    "ctaTitle": "Lead an Initiative at TTU SOM",
+    "ctaDescription": "Join a clinical club, organize a community health mission, or launch a student research project.",
+    "ctaPrimary": "Connect with Student Affairs",
+    "ctaSecondary": "View Event Calendar"
+  },
+  "studentsInternships": {
+    "badge": "Clinical Rotations & Residency",
+    "title": "Hospital Rotations & Global Career Pathways",
+    "subtitle": "Hands-on bedside training across 18+ premier HCMC hospitals and US partner medical centers.",
+    "description": "Starting from Year 3, TTU SOM students enter structured clinical clerkships at leading tertiary hospitals while preparing for domestic Residency exams or the USMLE.",
+    "pillars": [
+      {
+        "title": "18+ Tier-1 Teaching Hospitals",
+        "description": "Rotations in Internal Medicine, Surgery, OB/GYN, Pediatrics, and Specialties at Cho Ray, Binh Dan, People's 115, Children's 1 & 2, Tu Du, Hung Vuong, Military Hospital 175..."
+      },
+      {
+        "title": "US Clinical Clerkships",
+        "description": "Selected students complete 4–8 week clinical rotations at St. Mary Medical Center (Indiana), ChristianaCare (Delaware), and Hermann Memorial (Texas)."
+      },
+      {
+        "title": "Residency & USMLE Coaching",
+        "description": "Dedicated guidance for ERAS/NRMP Match applications in the US, Vietnamese Residency exams, and hospital recruitment."
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Clinical Training Progression",
+        "points": [
+          "Years 1–2: Liberal Arts, Organ-System Basic Sciences, 3D Anatomage Dissection, and OSCE Pre-clinical Skills",
+          "Years 3–4: Core Clerkships in Internal Medicine, Surgery, OB/GYN, and Pediatrics at Tan Tao Hospital & HCMC hospitals",
+          "Years 5–6: Subspecialty Rotations, Emergency Medicine shifts, Acting Internships, and Overseas Elective Clerkships"
+        ]
+      },
+      {
+        "title": "Medical Career Toolkit",
+        "points": [
+          "ECFMG registration support and structured USMLE Step 1 & Step 2 CK prep courses",
+          "Annual Healthcare Career Fair connecting graduates directly with Hospital Directors",
+          "Post-graduation 12–18 month clinical practice pathways for Medical Licensing"
+        ]
+      }
+    ],
+    "resourcesTitle": "Key Clinical Training Partners",
+    "resources": [
+      {
+        "title": "Tan Tao University Hospital",
+        "description": "Our on-campus teaching hospital providing daily clinical practice for medical, nursing, and laboratory students."
+      },
+      {
+        "title": "Ho Chi Minh City Referral Hospitals",
+        "description": "Cho Ray Hospital, Binh Dan Hospital, People's Hospital 115, Children's Hospital 1 & 2, Tu Du Hospital, Hung Vuong Hospital, Thong Nhat Hospital."
+      },
+      {
+        "title": "St. Mary Medical Center (Indiana, USA)",
+        "description": "US teaching hospital hosting TTU SOM students for Cardiology and Internal Medicine rotations under Prof. Thach Nguyen."
+      }
+    ],
+    "ctaTitle": "Chart Your Clinical Career",
+    "ctaDescription": "Connect with our Clinical Coordination & Career Office to plan your rotations, USMLE timeline, and residency applications.",
+    "ctaPrimary": "Schedule Clinical Advising",
+    "ctaSecondary": "Browse Career Opportunities"
+  },
+  "studentsAlumni": {
+    "badge": "Alumni & Physicians",
+    "title": "TTU School of Medicine Alumni Network",
+    "subtitle": "Proud generations of TTU-trained physicians, nurses, and medical scientists serving in Vietnam and the United States.",
+    "description": "Graduates of TTU School of Medicine practice at premier hospitals across Vietnam, excel in competitive Residency programs, and pursue postgraduate training in the US, Europe, and Asia.",
+    "impact": [
+      {
+        "value": "500+",
+        "label": "MD & BS Graduates",
+        "description": "Practicing across public tertiary hospitals, international clinics, and research institutes"
+      },
+      {
+        "value": "95%+",
+        "label": "Placement & Postgraduate Rate",
+        "description": "Employed at leading healthcare institutions or enrolled in residency within 6 months"
+      },
+      {
+        "value": "US & VN",
+        "label": "Residency Matches",
+        "description": "Alumni certified by ECFMG and matched into US and Vietnamese Residency programs"
+      }
+    ],
+    "initiatives": [
+      {
+        "title": "Alumni USMLE & Residency Mentorship",
+        "description": "Resident physicians guide current students through USMLE preparation, clinical case presentations, and residency interviews."
+      },
+      {
+        "title": "Multi-Center Clinical Research Network",
+        "description": "Connecting TTU physician alumni across hospitals to collaborate on clinical trials and international publications."
+      },
+      {
+        "title": "Scholarship & Medical Charity Missions",
+        "description": "Alumni return to campus to sponsor scholarships and lead rural healthcare outreach alongside current students."
+      }
+    ],
+    "storiesTitle": "Featured Alumni Spotlights",
+    "stories": [
+      {
+        "name": "Dr. Nguyen Quoc Ai, MD",
+        "role": "Internal Medicine Resident, United States",
+        "quote": "TTU School of Medicine gave me an American-standard medical foundation, independent research skills, and the confidence to succeed in the USMLE."
+      },
+      {
+        "name": "Dr. Le Thanh Tung, MD",
+        "role": "Cardiovascular Physician & Q1 Co-Author",
+        "quote": "Joining Prof. Thach Nguyen's coronary artery flow dynamics research group as an undergraduate opened doors to international academic medicine."
+      }
+    ],
+    "ctaTitle": "Stay Connected with TTU SOM Alumni",
+    "ctaDescription": "Update your professional profile, mentor junior medical students, or collaborate on clinical research.",
+    "ctaPrimary": "Join Alumni Directory",
+    "ctaSecondary": "Share Your Milestone"
+  },
+  "research": {
+    "title": "Medical Research & Global Publications",
+    "subtitle": "Advancing Cardiovascular Medicine, Molecular Biomedicine, and Evidence-Based Clinical Care",
+    "description": "Tan Tao University School of Medicine is a powerhouse of international ISI/Scopus publications, pioneering research in Coronary Artery Flow Dynamics, AI in medical imaging, NAFOSTED molecular pharmacology, and clinical nursing science.",
+    "heroBadge": "Biomedical & Clinical Research",
+    "heroCtaPrimary": "View International Publications",
+    "heroCtaSecondary": "Explore Research Grants",
+    "highlightsTitle": "Research Excellence at TTU SOM",
+    "highlights": [
+      {
+        "value": "Q1 / ISI",
+        "label": "Premier Medical Journals",
+        "description": "Published in Nature Medicine, Circulation (AHA), Frontiers in Cardiovascular Medicine, and Aging and Cancer."
+      },
+      {
+        "value": "NAFOSTED",
+        "label": "National & Global Grants",
+        "description": "Leading funded projects in molecular biomedicine, interventional cardiology, and clinical epidemiology."
+      },
+      {
+        "value": "04",
+        "label": "Core Research Clusters",
+        "description": "Interventional Cardiology, Surgery & Oncology, Molecular Diagnostics, and Public Health & Nursing."
+      },
+      {
+        "value": "100%",
+        "label": "Student Research Immersion",
+        "description": "Medical students receive formal research training and co-author international peer-reviewed papers."
+      }
+    ],
+    "researchAreas": "Strategic Research Focus Areas",
+    "areas": [
+      {
+        "title": "Interventional Cardiology & Coronary Flow Dynamics",
+        "description": "Investigating coronary arterial hemodynamics, turbulent flow mechanics, intravascular imaging, and AI-driven plaque rupture prediction led by Prof. Thach Nguyen.",
+        "projects": [
+          "Coronary Artery Flow Dynamics & Acoustic Cavitation",
+          "AI-Assisted Coronary Angiography Analysis",
+          "Heart Failure & Structural Heart Interventions in Older Adults",
+          "Collaborative Trials presented at AHA, ACC, and SCAI"
+        ]
+      },
+      {
+        "title": "Biomedical Sciences, Microbiology & Molecular Diagnostics",
+        "description": "Elucidating molecular mechanisms of infectious diseases, antimicrobial resistance, parasitology, and precision laboratory diagnostics.",
+        "projects": [
+          "NAFOSTED Grants in Molecular Pharmacology & Targeted Therapy",
+          "Hospital Antimicrobial Stewardship & Resistance Surveillance",
+          "Clinical Parasitology & Tropical Medicine",
+          "ISO 15189 Clinical Laboratory Quality Standardization"
+        ]
+      },
+      {
+        "title": "Surgical Sciences, Applied Anatomy & Oncology",
+        "description": "Advancing 3D surgical anatomy, minimally invasive hepatobiliary and gastrointestinal surgery, and cancer biomarkers.",
+        "projects": [
+          "3D Vascular & Visceral Anatomical Variations",
+          "Minimally Invasive GI & Hepatobiliary Surgery Outcomes",
+          "Biomarkers in Aging and Cancer Progression",
+          "Surgical Simulation & OSCE Competency Assessment"
+        ]
+      },
+      {
+        "title": "Public Health, Epidemiology & Nursing Science",
+        "description": "Contributing to Global Burden of Disease (GBD) studies, patient safety protocols, critical care nursing, and community cardiovascular screening.",
+        "projects": [
+          "Global Burden of Disease Collaborations in Nature Medicine (2026)",
+          "Evidence-Based Critical Care Nursing (Nursing Reports)",
+          "Community Cardiometabolic Risk Screening",
+          "Medical Education Innovation & Standardized Patient Evaluation"
+        ]
+      }
+    ],
+    "publications": "Selected International Publications (2025 – 2026)",
+    "publicationsList": [
+      {
+        "title": "Global burden and projections of infectious diseases and antimicrobial resistance",
+        "authors": "GBD Collaborative Network & TTU School of Medicine Faculty",
+        "journal": "Nature Medicine (Q1, IF > 50)",
+        "year": "2026"
+      },
+      {
+        "title": "Acoustic and hemodynamic characterization of turbulent coronary arterial flow",
+        "authors": "Thach Nguyen, Ernest F. Talarico Jr. et al.",
+        "journal": "Frontiers in Cardiovascular Medicine / Circulation AHA",
+        "year": "2026"
+      }
+    ],
+    "collaborations": "International Academic & Hospital Partners",
+    "collaborationList": [
+      "St. Mary Medical Center (Indiana, USA)",
+      "ChristianaCare Health System (Delaware, USA)",
+      "Indiana University Northwest – School of Medicine",
+      "Cho Ray, Binh Dan, People's 115 & Children's Hospitals (HCMC)",
+      "Tan Tao University Hospital"
+    ],
+    "impactTitle": "Translational Research Saving Lives",
+    "impactDescription": "Every research project at TTU School of Medicine bridges bench-top discovery and bedside care to improve diagnostic accuracy and patient outcomes.",
+    "impactCards": [
+      {
+        "title": "Pioneering Coronary Hemodynamics",
+        "description": "Applying fluid mechanics principles to explain atherosclerotic plaque erosion and acute myocardial infarction."
+      },
+      {
+        "title": "Training Physician-Scientists",
+        "description": "Undergraduate medical students collect clinical data, draft manuscripts, and present at major US cardiology meetings."
+      },
+      {
+        "title": "Bedside Clinical Translation",
+        "description": "Translating diagnostic and nursing research directly into care protocols across our affiliated hospital network."
+      }
+    ],
+    "ctaTitle": "Collaborate with TTU SOM Researchers",
+    "ctaDescription": "Partner with our faculty and research cohorts on clinical trials, multi-center registries, and joint publications.",
+    "ctaPrimary": "Propose a Research Collaboration",
+    "ctaSecondary": "Browse Publication Archive"
+  },
+  "researchProjects": {
+    "badge": "Research Projects",
+    "title": "Biomedical & Clinical Research Initiatives",
+    "subtitle": "Explore NAFOSTED national grants, university-funded studies, and international multi-center clinical trials led by TTU SOM faculty and students.",
+    "labels": {
+      "totalProjects": "Total Projects",
+      "ongoing": "Ongoing",
+      "completed": "Completed",
+      "statusOngoing": "Ongoing",
+      "statusCompleted": "Completed"
+    },
+    "filters": [
+      "Interventional Cardiology",
+      "Molecular Biomedicine",
+      "Oncology & Surgery",
+      "Public Health & Nursing"
+    ],
+    "spotlight": {
+      "title": "Priority Research Streams",
+      "description": "Connecting molecular biology laboratories with clinical registries across our affiliated teaching hospitals."
+    },
+    "projects": [
+      {
+        "title": "Coronary Artery Flow Dynamics and AI-Driven Prediction of Plaque Vulnerability",
+        "leaders": "Principal Investigator: Prof. Thach Nguyen, MD, FACC, FSCAI",
+        "focus": "Focus Area: Interventional Cardiology",
+        "summary": "Analyzing turbulent coronary flow patterns and arterial wall shear stress on dynamic angiograms integrated with deep-learning models.",
+        "timeline": "2024 – 2026",
+        "status": "Active",
+        "tags": [
+          "Cardiology",
+          "Coronary Flow",
+          "Medical AI"
+        ]
+      },
+      {
+        "title": "NAFOSTED Grant: Molecular Mechanisms and Bioactivity of Natural Compounds for Targeted Therapy",
+        "leaders": "Principal Investigator: TTU SOM Molecular Biomedicine Group",
+        "focus": "Focus Area: Molecular Biomedicine",
+        "summary": "Evaluating signaling pathway inhibition and anti-inflammatory mechanisms in experimental cellular and molecular models.",
+        "timeline": "2023 – 2026",
+        "status": "Active",
+        "tags": [
+          "NAFOSTED",
+          "Molecular Biology",
+          "Pharmacology"
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Advance Medical Discovery Together",
+      "description": "We welcome collaborations with hospitals, biomedical institutes, and universities worldwide.",
+      "primary": "Submit Collaboration Proposal",
+      "secondary": "Contact Scientific Council"
+    }
+  },
+  "researchPublications": {
+    "badge": "International Publications",
+    "title": "ISI / Scopus Scientific Publications",
+    "subtitle": "Peer-reviewed journal articles, clinical trials, and international conference proceedings authored by TTU School of Medicine faculty and students.",
+    "labels": {
+      "totalPublications": "Total Publications",
+      "thisYear": "2025–2026",
+      "journals": "Indexed Journals",
+      "recentPublications": "Recent Publications",
+      "viewDoi": "View DOI",
+      "viewDetails": "View Details",
+      "statusOngoing": "In Press",
+      "statusCompleted": "Published"
+    },
+    "metrics": [
+      {
+        "value": "100+",
+        "label": "International & National Papers"
+      },
+      {
+        "value": "Q1/Q2",
+        "label": "WoS / Scopus Indexed Journals"
+      },
+      {
+        "value": "15+",
+        "label": "AHA / ACC / SCAI Presentations"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Peer-Reviewed International Journals",
+        "items": [
+          {
+            "title": "Global burden of disease and clinical outcomes collaborative study (Nature Medicine, 2026)",
+            "authors": "GBD Collaborative Network & TTU School of Medicine",
+            "where": "Nature Medicine, 2026",
+            "linkLabel": "View on Nature"
+          },
+          {
+            "title": "Coronary artery flow dynamics and plaque vulnerability analysis",
+            "authors": "Thach Nguyen, Ernest F. Talarico Jr. et al.",
+            "where": "Frontiers in Cardiovascular Medicine, 2026",
+            "linkLabel": "View Abstract"
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Co-Author Future Medical Publications",
+      "description": "Connect with our professors and student research teams to launch multi-center clinical studies.",
+      "primary": "Contact Research Office",
+      "secondary": "Request Full Bibliography"
+    }
+  },
+  "news": {
+    "title": "Medical News & Events",
+    "subtitle": "Academic & Clinical Updates from TTU SOM",
+    "description": "Follow the latest news on medical education, international scientific conferences, the White Coat Ceremony, and clinical rotations at Tan Tao University School of Medicine.",
+    "latestNews": "Latest News",
+    "viewDetails": "Read Article",
+    "viewAllNews": "View All News",
+    "newsroom": "TTU SOM / Newsroom",
+    "featuredStory": "Featured Story",
+    "browseByTopic": "Filter by Category",
+    "allCategories": "All",
+    "noNews": "No matching articles found.",
+    "breadcrumbLabel": "Breadcrumb",
+    "home": "Home",
+    "topicsEyebrow": "Browse Newsroom",
+    "topicsTitle": "News by Topic",
+    "topicsDescription": "Quickly follow updates on clinical training, international conferences, admissions, and student life at TTU SOM.",
+    "storyCount": "{count} articles",
+    "insightsEyebrow": "Across TTU School of Medicine",
+    "insightsTitle": "Research & Achievements",
+    "insightsDescription": "Direct access to recent Q1 publications, biomedical grants, and residency achievements of TTU SOM students and alumni.",
+    "researchLabel": "Medical Research",
+    "achievementsLabel": "Achievements",
+    "publicationLabel": "ISI/Scopus Paper",
+    "projectLabel": "Grant Project",
+    "researchArchiveLabel": "Research Archive",
+    "researchFallbackTitle": "Research Grants & Publications at TTU SOM",
+    "researchFallbackDescription": "Explore cardiovascular, molecular biomedical, nursing, and public health publications from our faculty and students.",
+    "achievementsFallbackTitle": "Student & Alumni Milestones",
+    "achievementsFallbackDescription": "Follow USMLE successes, Residency matches, and scientific awards earned by TTU School of Medicine students.",
+    "viewResearch": "Explore Research",
+    "viewAchievements": "View Achievements",
+    "quickFeedEyebrow": "Continuous Updates",
+    "quickFeedTitle": "SOM News in Brief",
+    "quickFeedDescription": "A compact index of academic notices, clinical rotation schedules, and upcoming medical events.",
+    "officialChannel": "Official TTU School of Medicine Channel",
+    "exploreSIT": "Explore More of TTU SOM",
+    "exploreSITDescription": "Continue from the newsroom to explore our MD, Nursing, and Medical Laboratory programs, teaching hospitals, and distinguished faculty.",
+    "exploreProgramsTitle": "Academic Programs",
+    "exploreProgramsDescription": "Learn about Doctor of Medicine (MD), Nursing, and Medical Laboratory Technology.",
+    "exploreResearchTitle": "Research & Publications",
+    "exploreResearchDescription": "Discover publications in Nature Medicine, Circulation, and NAFOSTED projects.",
+    "exploreStudentsTitle": "Student Life & Clerkships",
+    "exploreStudentsDescription": "Follow hospital rotations, US clinical clerkships, and the White Coat Ceremony.",
+    "exploreFacultyTitle": "Faculty Leadership",
+    "exploreFacultyDescription": "Meet our Professors, Associate Professors, and Specialist Physicians from the US and Vietnam.",
+    "exploreLink": "Explore Section",
+    "newsList": [
+      {
+        "title": "White Coat Ceremony: Incoming Medical Students Recite the Hippocratic & Hai Thuong Oaths",
+        "date": "October 15, 2025",
+        "category": "SOM Events",
+        "summary": "A solemn milestone marking new students' entry into the medical profession and their commitment to compassionate patient care.",
+        "image": "/assets/som/about-som-whitecoat.jpg"
+      },
+      {
+        "title": "TTU Medical Students Complete Clinical Clerkship at St. Mary Medical Center (Indiana, USA)",
+        "date": "August 28, 2025",
+        "category": "Global Medicine",
+        "summary": "Outstanding TTU medical students completed a 6-week hands-on clinical rotation in the United States under Prof. Thach Nguyen.",
+        "image": "/assets/som/hero-som-clinical.jpg"
+      },
+      {
+        "title": "TTU SOM Researchers Publish in Nature Medicine and Frontiers in Cardiovascular Medicine",
+        "date": "February 12, 2026",
+        "category": "Scientific Research",
+        "summary": "Highlighting the global biomedical and clinical research impact of Tan Tao University School of Medicine faculty and students.",
+        "image": "/assets/som/lab-microbiology.jpg"
+      },
+      {
+        "title": "3D Anatomage Virtual Dissection Table Enhances Pre-Clinical Anatomy & Radiology Education",
+        "date": "January 05, 2026",
+        "category": "Medical Education",
+        "summary": "First- and second-year students interact with life-size 3D human cadaver reconstructions to bridge gross anatomy and clinical imaging.",
+        "image": "/assets/som/lab-anatomage-3d.jpg"
+      }
+    ],
+    "upcomingEvents": "Upcoming Medical Events"
+  },
+  "achievements": {
+    "badge": "Accreditations & Honors",
+    "title": "Milestones of TTU School of Medicine",
+    "subtitle": "International accreditations, scientific awards, and Residency achievements of TTU SOM faculty and students.",
+    "viewAll": "View All Achievements",
+    "levels": {
+      "UNIVERSITY": "University",
+      "NATIONAL": "National",
+      "INTERNATIONAL": "International"
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "academicPrograms": "Academic Programs",
+    "contact": "Contact SOM",
+    "links": [
+      "About SOM",
+      "Programs",
+      "Admissions",
+      "Research",
+      "Student Life",
+      "Contact",
+      "FAQ"
+    ],
+    "programs": [
+      "Doctor of Medicine (MD – USMLE Track)",
+      "Bachelor of Nursing",
+      "Bachelor of Medical Laboratory Technology",
+      "USMLE & US Clinical Clerkships"
+    ],
+    "address": "Tan Tao University Avenue, Tan Duc E.City, Duc Hoa, Long An",
+    "phone": "(+84) 272 376 9216",
+    "email": "medicine@ttu.edu.vn",
+    "mission": "TTU School of Medicine educates healthcare leaders under the philosophy of \"American Medicine – Hai Thuong Medical Ethics\" and Liberal Arts education.",
+    "copyright": "© 2026 School of Medicine – Tan Tao University (TTU SOM)."
+  },
+  "contact": {
+    "eyebrow": "CONTACT TTU SOM",
+    "title": "We Are Here to Guide Your Medical Journey",
+    "lede": "Have questions about admissions for Medicine (MD), Nursing, Medical Laboratory Technology, or USMLE preparation? The School of Medicine office responds during business hours.",
+    "officeHoursLabel": "Office Hours",
+    "officeHours": "Monday – Friday, 08:00 – 17:00",
+    "addressLabel": "School of Medicine Office",
+    "phoneLabel": "Phone",
+    "emailLabel": "Official Email",
+    "mapCta": "Get Directions",
+    "channelsTitle": "Connect Directly with TTU School of Medicine",
+    "channelAdmissions": {
+      "title": "Health Sciences Admissions",
+      "desc": "Entry requirements, tuition, ITA scholarships, and application deadlines.",
+      "cta": "Go to Admissions Portal"
+    },
+    "channelAcademic": {
+      "title": "Academics, Rotations & USMLE",
+      "desc": "Curriculum inquiries, hospital clerkships, and research collaborations.",
+      "cta": "Email the School of Medicine"
+    },
+    "channelFast": {
+      "title": "Quick Online Inquiry",
+      "desc": "Message the TTU School of Medicine Fanpage for same-day support.",
+      "cta": "Message on Messenger"
+    },
+    "faqTeaser": "Review our Frequently Asked Questions (FAQ) for quick details on our medical and health sciences programs.",
+    "faqCta": "View FAQ"
+  },
+  "faq": {
+    "eyebrow": "TTU SOM FAQ",
+    "title": "Frequently Asked Questions",
+    "lede": "Answers to the most common questions from prospective students and parents about academic programs, teaching hospitals, and USMLE preparation at TTU School of Medicine.",
+    "items": [
+      {
+        "q": "Which degree programs does Tan Tao University School of Medicine offer?",
+        "a": "The School of Medicine offers 3 full-time undergraduate Health Sciences programs: (1) Doctor of Medicine – General Medicine (Code 7720101, 6 years), (2) Bachelor of Nursing (Code 7720301, 4 years), and (3) Bachelor of Medical Laboratory Technology (Code 7720601, 4 years)."
+      },
+      {
+        "q": "How is the USMLE integrated into the Doctor of Medicine (MD) program?",
+        "a": "TTU School of Medicine is listed in the World Directory of Medical Schools (WDOMS) and recognized by ECFMG. Our bilingual curriculum integrates USMLE Step 1 and Step 2 CK coursework, enabling students to earn a Vietnamese MD degree while qualifying to sit for USMLE exams and apply for US Residency."
+      },
+      {
+        "q": "Where do TTU medical and nursing students complete their clinical rotations?",
+        "a": "Students practice on campus at Tan Tao University Hospital and rotate across 18+ premier tier-1 hospitals in Ho Chi Minh City, including Cho Ray Hospital, Binh Dan Hospital, People's Hospital 115, Children's Hospital 1 & 2, Tu Du Hospital, Hung Vuong Hospital, Military Hospital 175, Thong Nhat Hospital, and Nguyen Tri Phuong Hospital."
+      },
+      {
+        "q": "Are there opportunities for overseas clinical clerkships?",
+        "a": "Yes. Each year, top-performing students with strong English proficiency are selected for 4-to-8-week clinical clerkships and observerships at partner hospitals in the United States (such as St. Mary Medical Center in Indiana and ChristianaCare in Delaware) as well as South Korea and Taiwan."
+      },
+      {
+        "q": "What pre-clinical laboratories and simulation facilities are available?",
+        "a": "TTU SOM features the state-of-the-art 3D Anatomage Virtual Dissection Table, a gross anatomy cadaver laboratory, a full OSCE Clinical Skills Simulation Center (Internal Medicine, Surgery, OB/GYN, Pediatrics, ICU), and specialized Biochemistry, Microbiology, and Molecular Diagnostics laboratories."
+      },
+      {
+        "q": "What scholarships are available for incoming students?",
+        "a": "Tan Tao University and the ITA For The Future Foundation award full and partial scholarships to high-achieving high school graduates, provincial/national academic competition winners, and continuing students who maintain outstanding GPAs."
+      },
+      {
+        "q": "Can undergraduate students participate in medical research?",
+        "a": "Yes. From Years 1–2, students can join research groups mentored by Prof. Thach Nguyen and SOM faculty. Many students have co-authored papers in Q1 journals (including Nature Medicine, Circulation, and Frontiers) and presented at international cardiology conferences."
+      },
+      {
+        "q": "How do I apply or schedule a visit to the School of Medicine?",
+        "a": "You can apply online via the TTU Admissions Portal (tuyensinh.ttu.edu.vn), email medicine@ttu.edu.vn, or call (+84) 272 376 9216 to receive personalized admissions counseling and book a campus tour."
+      }
+    ],
+    "contactCta": "Still have questions? Contact the School of Medicine"
+  }
+}
